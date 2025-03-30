@@ -1,0 +1,738 @@
+Rating,Ownership_Type,Sector,Job_Function,Experience_Level,avg_salary,Python_Knowledge,Tableau_Knowledge,R_Knowledge,Description_len,BoxCox_Avg_Salary,boxcox_lambda,Age_Group,Company_Size,Industry_Group,Revenue_Group,Region,Python_Tools_Knowledge,Cloud_or_BigData_Knowledge
+3.8,Company - Private,Industry & Finance,data scientist,senior,72.0,1,1,0,2536,10.717600428102928,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,West Other,0,0
+3.4,Other,"Health, Education & Retail",data scientist,Junior,87.5,1,0,1,4783,11.742871439907747,0.37941632137026204,31–55,Corporation / Multinational,"Health, Education & Media",Large Business,MD,0,0
+4.8,Company - Private,Professional & Other Services,data scientist,senior,85.0,1,0,1,3461,11.585598214198749,0.37941632137026204,0–15,Medium Company,Public & Essential Services,Mid-size Business,South Other,0,1
+3.8,Other,Industry & Finance,data scientist,Entry Level,76.5,1,0,0,3883,11.028310759736366,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,0,0
+2.9,Company - Private,Professional & Other Services,data scientist,Unknown,114.5,1,0,1,2728,13.28750106509227,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Unknown / N/A,NY,0,0
+3.4,Company - Public,Professional & Other Services,data scientist,semi-senior,95.0,1,0,1,3747,12.198588995887503,0.37941632137026204,16–30,Medium Company,Professional Services,Large Business,South Other,0,1
+4.1,Company - Private,Industry & Finance,data scientist,Unknown,73.5,0,0,0,1786,10.822476358219792,0.37941632137026204,16–30,Medium Company,Industry & Business,Unknown / N/A,MD,0,0
+3.8,Company - Private,Professional & Other Services,data scientist,Junior,114.0,0,0,0,3804,13.261083159929397,0.37941632137026204,16–30,Medium Company,Professional Services,Micro / Small Business,CA,1,1
+3.3,Other,"Health, Education & Retail",Other,senior,61.0,0,0,0,1538,9.903498824720886,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+4.6,Company - Private,Tech / Innovation,data scientist,Junior,140.0,1,0,0,4574,14.549786605178722,0.37941632137026204,16–30,Small Company,Tech / Innovation,Mid-size Business,NY,0,1
+3.5,Company - Private,"Health, Education & Retail",data scientist,Unknown,163.5,1,0,1,2757,15.591941936126151,0.37941632137026204,0–15,Medium Company,Industry & Business,Large Business,CA,0,0
+4.1,Company - Public,Professional & Other Services,data scientist,Junior,85.0,0,0,0,3490,11.585598214198749,0.37941632137026204,55+,Large Company,Professional Services,Large Business,VA,0,1
+3.2,Company - Public,"Health, Education & Retail",data scientist,Unknown,139.0,0,0,1,3934,14.503108503646049,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,South Other,0,1
+4.1,Company - Private,Professional & Other Services,data analyst,Junior,65.5,1,1,1,4897,10.246737256624101,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,West Other,0,1
+3.7,Company - Public,"Health, Education & Retail",data scientist,Junior,113.5,0,0,1,3731,13.234593250723261,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,1,1
+3.6,Subsidiary or Business Segment,Professional & Other Services,data engineer,Unknown,146.0,0,0,0,1889,14.82560099964623,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,102.0,0,0,0,3639,12.604187185215123,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,MA,0,0
+4.3,Company - Private,Tech / Innovation,data scientist,Junior,153.5,1,0,1,4163,15.160651116275723,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,CA,0,1
+4.2,Company - Private,Tech / Innovation,data scientist,Junior,142.5,0,0,0,3512,14.665583780188944,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+4.0,Nonprofit Organization,Industry & Finance,data scientist,Junior,87.5,0,0,0,4397,11.742871439907747,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,West Other,1,0
+3.2,Company - Private,Tech / Innovation,data scientist,Junior,105.5,0,0,1,2918,12.800522961232547,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,West Other,1,1
+3.9,Company - Private,Industry & Finance,data scientist,Junior,96.0,0,0,0,6909,12.257642302369677,0.37941632137026204,0–15,Medium Company,Industry & Business,Unknown / N/A,South Other,0,0
+3.8,Company - Private,Professional & Other Services,data scientist,senior,112.5,1,0,1,6408,13.181395355191171,0.37941632137026204,16–30,Medium Company,Public & Essential Services,Unknown / N/A,IL,0,1
+4.3,Nonprofit Organization,Professional & Other Services,data scientist,Entry Level,84.0,1,1,0,2907,11.521885409409787,0.37941632137026204,55+,Small Company,Public & Essential Services,Micro / Small Business,South Other,0,0
+4.0,Company - Private,Tech / Innovation,data scientist,Junior,143.0,0,0,1,3760,14.68859159934331,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,1,1
+4.0,Company - Public,"Health, Education & Retail",data scientist,Entry Level,86.5,1,0,1,3698,11.680301114750797,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+3.5,Company - Private,Industry & Finance,data scientist,semi-senior,99.5,0,1,1,4420,12.461373433036002,0.37941632137026204,55+,Large Company,Industry & Business,Mid-size Business,West Other,1,1
+3.7,Company - Public,Industry & Finance,data analyst,Unknown,47.5,0,0,0,4900,8.768154892697094,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,MA,0,0
+4.0,Company - Public,"Health, Education & Retail",data scientist,Unknown,84.0,0,0,0,5015,11.521885409409787,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,Northeast Other,0,1
+4.8,Company - Private,Professional & Other Services,data scientist,senior,85.0,1,0,1,3461,11.585598214198749,0.37941632137026204,0–15,Medium Company,Public & Essential Services,Mid-size Business,South Other,0,1
+3.8,Other,Industry & Finance,data scientist,Entry Level,76.5,1,0,0,3883,11.028310759736366,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,0,0
+3.6,Company - Private,Professional & Other Services,data scientist,Unknown,96.0,1,0,1,3342,12.257642302369677,0.37941632137026204,16–30,Large Company,Professional Services,Mid-size Business,Midwest Other,0,0
+3.8,Company - Public,"Health, Education & Retail",data scientist,Junior,114.5,0,0,1,5045,13.28750106509227,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,1,0
+3.8,Company - Public,Tech / Innovation,data scientist,Entry Level,121.0,0,0,0,2327,13.624605360121668,0.37941632137026204,16–30,Large Company,Tech / Innovation,Large Business,CA,1,1
+4.7,Company - Private,"Health, Education & Retail",data scientist,Junior,112.5,1,0,1,2161,13.181395355191171,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,MA,0,0
+4.2,Company - Private,Tech / Innovation,data analyst,semi-senior,106.0,1,1,1,1739,12.82823924817267,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.5,Company - Private,Tech / Innovation,data scientist,Junior,107.0,1,1,1,5000,12.883429392155278,0.37941632137026204,55+,Large Company,Tech / Innovation,Large Business,CA,0,1
+4.7,Company - Private,Industry & Finance,data scientist,senior,110.0,0,0,0,3703,13.047103768381282,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,MA,1,1
+3.5,Company - Public,"Health, Education & Retail",data scientist,senior,147.5,1,0,0,3555,14.893451045730563,0.37941632137026204,Unknown,Large Company,"Health, Education & Media",Large Business,CA,0,0
+3.5,Company - Private,Industry & Finance,data engineer,Unknown,106.0,1,0,1,1739,12.82823924817267,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,NY,0,0
+4.2,Company - Private,Tech / Innovation,data analyst,Junior,88.0,1,1,1,3053,11.773990261717742,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,CA,0,1
+3.6,Company - Private,Professional & Other Services,data engineer,senior,98.5,0,0,0,1996,12.403624598141242,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,MA,0,0
+4.2,Company - Private,Tech / Innovation,data scientist,Junior,142.5,0,0,1,3833,14.665583780188944,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.4,Company - Public,Industry & Finance,Other,Unknown,82.5,0,0,1,3550,11.425427454438461,0.37941632137026204,0–15,Large Company,Industry & Business,Large Business,Northeast Other,0,1
+4.3,Company - Public,Professional & Other Services,data scientist,Entry Level,130.0,0,1,1,9120,14.07330126490502,0.37941632137026204,31–55,Large Company,Professional Services,Large Business,IL,1,1
+5.0,Company - Private,Tech / Innovation,data scientist,semi-senior,155.0,0,0,0,3213,15.226434491520832,0.37941632137026204,0–15,,Tech / Innovation,Unknown / N/A,South Other,0,1
+3.7,Company - Public,Tech / Innovation,data scientist,senior,184.5,1,1,1,7286,16.44708044231712,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,West Other,0,0
+3.1,Company - Private,Tech / Innovation,data analyst,Unknown,29.5,0,0,0,3412,6.882652235110645,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,West Other,0,0
+4.7,Company - Private,Industry & Finance,Other,Unknown,86.5,0,0,0,2682,11.680301114750797,0.37941632137026204,16–30,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+3.7,Company - Public,Industry & Finance,data scientist,senior,81.0,0,1,1,2739,11.327874888755245,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,IL,0,0
+3.8,Subsidiary or Business Segment,Professional & Other Services,data scientist,senior,91.0,0,1,0,2915,11.958437512010287,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,South Other,1,1
+3.3,Company - Private,Industry & Finance,data scientist,semi-senior,114.5,1,0,1,4244,13.28750106509227,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,MA,0,0
+4.6,Company - Private,Industry & Finance,data scientist,Junior,68.0,1,1,1,1629,10.431128740743938,0.37941632137026204,16–30,Large Company,Industry & Business,Mid-size Business,South Other,0,0
+3.7,Company - Public,Industry & Finance,data scientist,Junior,115.0,1,0,1,4734,13.313847475082381,0.37941632137026204,Unknown,Corporation / Multinational,Industry & Business,Corporation / Multinational,NY,0,0
+3.7,Company - Public,Industry & Finance,data scientist,Entry Level,109.5,0,1,1,4448,13.020018781247758,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,CA,0,0
+3.5,Company - Public,"Health, Education & Retail",data scientist,senior,75.5,1,0,0,3543,10.960265021066744,0.37941632137026204,Unknown,Large Company,"Health, Education & Media",Large Business,West Other,0,0
+4.1,Company - Private,Tech / Innovation,data scientist,senior,154.5,0,0,1,4203,15.204550771694912,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,CA,1,1
+4.7,Company - Private,Tech / Innovation,data scientist,senior,143.5,0,0,1,5020,14.71154954844432,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,Midwest Other,1,1
+4.1,Company - Private,Industry & Finance,data scientist,Unknown,73.5,0,0,0,1786,10.822476358219792,0.37941632137026204,16–30,Medium Company,Industry & Business,Unknown / N/A,MD,0,0
+3.4,Company - Public,Professional & Other Services,data scientist,semi-senior,95.0,1,0,1,3747,12.198588995887503,0.37941632137026204,16–30,Medium Company,Professional Services,Large Business,South Other,0,1
+4.4,Subsidiary or Business Segment,Professional & Other Services,data scientist,Junior,107.0,1,1,1,4804,12.883429392155278,0.37941632137026204,55+,Medium Company,Professional Services,Unknown / N/A,Midwest Other,0,1
+4.3,Company - Private,Professional & Other Services,data scientist,Unknown,115.0,1,1,1,1382,13.313847475082381,0.37941632137026204,0–15,Medium Company,Professional Services,Micro / Small Business,NY,0,1
+3.8,Company - Public,Industry & Finance,data scientist,Unknown,139.5,0,0,0,2933,14.526473511166222,0.37941632137026204,16–30,Medium Company,Industry & Business,Mid-size Business,CA,0,0
+3.8,Other,Industry & Finance,data scientist,Unknown,67.0,0,0,0,4945,10.357885436302624,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,1,0
+3.8,Company - Public,"Health, Education & Retail",data scientist,Junior,85.0,0,0,1,2493,11.585598214198749,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Large Business,Northeast Other,1,0
+2.8,Company - Private,"Health, Education & Retail",data scientist,Entry Level,118.0,1,0,1,1939,13.470452314846167,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Micro / Small Business,MA,0,0
+4.7,Company - Private,Tech / Innovation,data scientist,semi-senior,79.5,0,0,1,3081,11.229194668952088,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,South Other,1,0
+3.1,Company - Public,Professional & Other Services,data scientist,Junior,56.5,1,1,1,8397,9.544161827661993,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+3.2,Company - Private,Professional & Other Services,data scientist,Junior,128.5,1,0,0,2306,13.999888028336144,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,0,1
+4.0,Company - Public,Tech / Innovation,Other,Junior,97.5,0,0,0,2291,12.345510769039018,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Unknown / N/A,West Other,0,0
+4.4,Company - Private,Tech / Innovation,Other,Entry Level,66.5,1,1,1,1886,10.321009220755032,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,Midwest Other,0,0
+3.6,Company - Public,Professional & Other Services,data scientist,Junior,179.5,1,0,1,2903,16.24919204789264,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,IL,0,0
+2.7,Subsidiary or Business Segment,Professional & Other Services,Other,senior,76.0,0,0,0,2653,10.994357345032004,0.37941632137026204,31–55,Medium Company,Professional Services,Mid-size Business,Midwest Other,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,112.0,1,0,1,4427,13.154686321331223,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,0,1
+3.1,Company - Private,Professional & Other Services,data scientist,Junior,98.0,1,0,0,2609,12.374613684443108,0.37941632137026204,Unknown,Large Company,Public & Essential Services,Large Business,Northeast Other,0,0
+4.0,Company - Public,Tech / Innovation,data scientist,semi-senior,128.0,0,0,0,4295,13.975298835028756,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Unknown / N/A,West Other,1,1
+4.3,Company - Private,Tech / Innovation,data scientist,Junior,150.5,0,0,1,3405,15.027877487709832,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,CA,1,1
+1.9,Company - Private,"Health, Education & Retail",Other,Unknown,87.5,0,0,1,5153,11.742871439907747,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Micro / Small Business,MA,0,1
+3.3,Company - Private,Industry & Finance,data scientist,Junior,110.0,0,0,1,3381,13.047103768381282,0.37941632137026204,0–15,Large Company,Industry & Business,Large Business,VA,1,1
+4.4,Company - Private,Tech / Innovation,data scientist,Junior,113.5,1,0,1,879,13.234593250723261,0.37941632137026204,16–30,Corporation / Multinational,Tech / Innovation,Mid-size Business,CA,0,0
+3.9,Company - Private,"Health, Education & Retail",data scientist,Junior,124.0,1,0,1,4189,13.776404389536111,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,CA,0,0
+4.7,Company - Private,Professional & Other Services,data analyst,Junior,56.5,0,0,0,4424,9.544161827661993,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Micro / Small Business,Northeast Other,0,0
+4.5,Nonprofit Organization,Industry & Finance,data scientist,Junior,130.0,1,0,0,2996,14.07330126490502,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,MD,0,0
+4.3,Company - Private,Tech / Innovation,data analyst,Unknown,77.5,0,0,0,3682,11.09580670992474,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,IL,0,0
+4.0,Company - Private,Professional & Other Services,data engineer,senior,87.0,1,0,0,3819,11.711642068078532,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,VA,0,1
+4.4,Company - Private,Professional & Other Services,data analyst,Unknown,53.5,0,0,0,1791,9.29462495042709,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,West Other,0,0
+3.2,Company - Public,"Health, Education & Retail",data scientist,Unknown,139.0,0,0,1,3934,14.503108503646049,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,South Other,0,1
+3.8,Company - Private,Professional & Other Services,data scientist,Junior,114.0,0,0,0,3804,13.261083159929397,0.37941632137026204,16–30,Medium Company,Professional Services,Micro / Small Business,CA,1,1
+4.2,Company - Private,Tech / Innovation,data scientist,Junior,85.5,1,0,1,3204,11.617280259087407,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,South Other,0,1
+4.5,Company - Private,Tech / Innovation,Other,Unknown,48.0,0,0,1,2253,8.813552036093204,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,South Other,0,1
+3.5,Company - Private,Tech / Innovation,data analyst,Junior,48.0,0,0,0,2772,8.813552036093204,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,South Other,0,0
+3.5,Company - Public,"Health, Education & Retail",Other,Unknown,174.0,0,0,1,4751,16.02752265317664,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+3.9,Company - Public,Industry & Finance,data scientist,Junior,85.0,1,0,1,2380,11.585598214198749,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,South Other,0,1
+4.7,Company - Private,Tech / Innovation,Other,Unknown,106.5,0,0,0,2723,12.855874519979954,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,MD,0,0
+4.2,Company - Private,Tech / Innovation,data analyst,semi-senior,72.5,0,0,0,2337,10.752708456754247,0.37941632137026204,31–55,Large Company,Tech / Innovation,Mid-size Business,MD,0,0
+3.4,Subsidiary or Business Segment,Tech / Innovation,Other,senior,85.5,0,0,0,4088,11.617280259087407,0.37941632137026204,16–30,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,MD,0,0
+3.2,Nonprofit Organization,Public Sector,data scientist,Entry Level,97.5,1,1,1,5342,12.345510769039018,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,VA,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,99.0,0,1,0,2588,12.432544265783939,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,1,0
+3.1,Company - Private,Industry & Finance,data analyst,Entry Level,56.5,0,0,0,4203,9.544161827661993,0.37941632137026204,16–30,Large Company,Industry & Business,Large Business,Midwest Other,0,0
+4.1,Company - Private,Tech / Innovation,data scientist,senior,133.0,1,0,0,5467,14.218565930489794,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,MD,0,0
+3.8,Company - Private,Professional & Other Services,data scientist,Unknown,121.0,0,0,1,3443,13.624605360121668,0.37941632137026204,0–15,Small Company,Professional Services,Unknown / N/A,NY,1,1
+4.7,Company - Private,Professional & Other Services,data scientist,Junior,85.5,1,0,1,3316,11.617280259087407,0.37941632137026204,31–55,Medium Company,Public & Essential Services,Unknown / N/A,NY,0,0
+4.3,Subsidiary or Business Segment,"Health, Education & Retail",data scientist,Junior,87.5,0,0,0,3717,11.742871439907747,0.37941632137026204,0–15,Large Company,Professional Services,Unknown / N/A,South Other,1,0
+4.2,Company - Private,Professional & Other Services,data scientist,Unknown,237.5,1,0,1,3301,18.365835287583373,0.37941632137026204,55+,Large Company,Professional Services,Unknown / N/A,South Other,0,0
+3.9,Company - Private,Tech / Innovation,data engineer,Junior,95.5,1,1,0,5483,12.228163617329262,0.37941632137026204,16–30,Large Company,Tech / Innovation,Mid-size Business,South Other,0,1
+3.3,Company - Public,Industry & Finance,data scientist,semi-senior,104.5,1,0,1,4753,12.744844841539297,0.37941632137026204,31–55,Corporation / Multinational,Industry & Business,Large Business,Midwest Other,0,1
+4.7,Company - Private,Tech / Innovation,data analyst,Unknown,56.5,0,1,0,5609,9.544161827661993,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,Northeast Other,0,0
+4.3,Company - Private,Tech / Innovation,data analyst,Entry Level,55.0,0,0,0,3209,9.42044938889513,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Micro / Small Business,West Other,0,0
+2.9,Other,"Health, Education & Retail",Other,senior,61.5,0,0,0,4917,9.942396383323832,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Unknown / N/A,Midwest Other,0,0
+4.5,Company - Private,Tech / Innovation,data scientist,Junior,157.0,0,0,0,5139,15.313533990341849,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,CA,0,1
+3.4,Company - Private,Tech / Innovation,data engineer,Junior,78.0,1,0,0,2232,11.129352107928245,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,Northeast Other,0,0
+3.7,Company - Public,"Health, Education & Retail",data scientist,Junior,113.5,0,0,1,3731,13.234593250723261,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,1,1
+4.6,Company - Private,Tech / Innovation,data scientist,Junior,140.0,1,0,0,4574,14.549786605178722,0.37941632137026204,16–30,Small Company,Tech / Innovation,Mid-size Business,NY,0,1
+3.2,Company - Private,Tech / Innovation,data scientist,Junior,132.5,0,0,0,3158,14.1944973939562,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,1,1
+4.0,Company - Public,Tech / Innovation,data engineer,senior,108.0,1,0,1,3443,12.93830036210818,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,CA,0,1
+4.6,Company - Private,Professional & Other Services,data scientist,Unknown,80.5,0,0,0,741,11.295108455115429,0.37941632137026204,55+,Medium Company,Professional Services,Mid-size Business,Midwest Other,0,0
+2.8,Company - Private,"Health, Education & Retail",data scientist,Unknown,107.5,1,0,0,3899,12.910904472673138,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,MD,0,0
+4.7,Company - Private,Professional & Other Services,data engineer,Junior,95.0,0,0,0,2896,12.198588995887503,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,Midwest Other,0,1
+3.0,Nonprofit Organization,"Health, Education & Retail",data scientist,Unknown,119.5,1,1,1,3947,13.547829049843862,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.2,Company - Private,Professional & Other Services,data engineer,Junior,134.0,0,0,0,2620,14.266535082196844,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Large Business,South Other,0,1
+4.4,Company - Private,Tech / Innovation,data scientist,Junior,100.5,0,1,0,4188,12.518763200183171,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,MA,1,0
+3.5,Company - Public,Professional & Other Services,data scientist,Unknown,107.5,1,1,1,7231,12.910904472673138,0.37941632137026204,55+,Large Company,Tech / Innovation,Mid-size Business,Midwest Other,0,0
+4.0,Company - Private,Tech / Innovation,data engineer,Junior,122.0,1,0,0,4064,13.675461947902846,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+4.3,Company - Public,Professional & Other Services,data engineer,senior,92.5,1,0,1,8175,12.049247752747563,0.37941632137026204,31–55,Large Company,Professional Services,Large Business,IL,0,1
+2.3,Company - Private,Professional & Other Services,data analyst,Junior,62.0,0,0,0,1822,9.981098179787683,0.37941632137026204,31–55,Medium Company,Professional Services,Mid-size Business,MD,0,0
+4.0,Other,Professional & Other Services,Other,Junior,39.5,0,0,0,2773,7.997450445171781,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,South Other,0,0
+3.6,Company - Private,Industry & Finance,data scientist,senior,107.5,0,1,0,3987,12.910904472673138,0.37941632137026204,55+,Large Company,Industry & Business,Mid-size Business,CA,0,0
+3.8,Company - Private,Professional & Other Services,data analyst,Junior,40.5,1,1,0,4154,8.0987946903106,0.37941632137026204,0–15,Medium Company,Professional Services,Unknown / N/A,Midwest Other,0,1
+3.7,Company - Public,Tech / Innovation,data scientist,Junior,89.5,0,1,0,5002,11.866693513721987,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,VA,1,1
+4.4,Company - Private,Professional & Other Services,data scientist,Junior,81.0,1,1,1,3154,11.327874888755245,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,IL,0,1
+4.0,Company - Private,Tech / Innovation,data scientist,Junior,147.0,0,0,1,3698,14.87088214124904,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,1,1
+3.2,Company - Private,Industry & Finance,data scientist,Unknown,85.0,1,1,1,3991,11.585598214198749,0.37941632137026204,55+,Large Company,Industry & Business,Mid-size Business,South Other,0,0
+2.9,Company - Private,Industry & Finance,Other,Junior,81.5,0,0,0,5619,11.360516041011113,0.37941632137026204,31–55,Large Company,Industry & Business,Large Business,CA,0,0
+3.8,Company - Public,"Health, Education & Retail",Other,Junior,168.0,0,0,0,6275,15.78068425579945,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Mid-size Business,CA,0,0
+4.3,Company - Private,Industry & Finance,data scientist,senior,100.5,0,0,0,3549,12.518763200183171,0.37941632137026204,16–30,Small Company,Industry & Business,Unknown / N/A,West Other,1,1
+3.4,Company - Private,Professional & Other Services,data scientist,senior,97.0,1,1,1,7548,12.316315086107084,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,NY,0,1
+4.1,Company - Public,Professional & Other Services,data scientist,Junior,85.0,0,0,0,3490,11.585598214198749,0.37941632137026204,55+,Large Company,Professional Services,Large Business,VA,0,1
+4.3,Company - Private,Tech / Innovation,data scientist,Junior,153.5,1,0,1,4163,15.160651116275723,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,CA,0,1
+5.0,Company - Private,Tech / Innovation,data engineer,Unknown,132.5,0,0,0,688,14.1944973939562,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,South Other,0,0
+4.3,Company - Private,Tech / Innovation,data engineer,Junior,100.0,0,0,0,3055,12.490112835757943,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,IL,0,1
+3.7,Company - Private,Professional & Other Services,data scientist,Unknown,105.0,1,0,0,3353,12.772725036002942,0.37941632137026204,0–15,Medium Company,Public & Essential Services,Unknown / N/A,West Other,0,0
+4.2,Nonprofit Organization,Professional & Other Services,data engineer,Junior,87.0,0,0,0,3066,11.711642068078532,0.37941632137026204,0–15,Corporation / Multinational,Public & Essential Services,Unknown / N/A,West Other,0,1
+4.3,Company - Private,Professional & Other Services,data analyst,Junior,103.5,0,0,0,1806,12.688835081378226,0.37941632137026204,0–15,Small Company,Professional Services,Unknown / N/A,CA,0,0
+2.6,Other,"Health, Education & Retail",Other,senior,124.0,1,0,0,6130,13.776404389536111,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,1
+3.8,Other,Industry & Finance,data scientist,Entry Level,67.0,1,0,1,6844,10.357885436302624,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,0,0
+3.9,Company - Private,Tech / Innovation,data engineer,Unknown,87.0,0,0,0,3217,11.711642068078532,0.37941632137026204,16–30,Corporation / Multinational,Tech / Innovation,Large Business,South Other,0,0
+4.3,Company - Private,Tech / Innovation,data scientist,Junior,137.5,0,0,1,3405,14.432698955995463,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,IL,1,1
+3.8,Company - Private,Professional & Other Services,data scientist,Junior,100.0,0,0,1,5526,12.490112835757943,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Mid-size Business,Midwest Other,1,0
+3.8,Nonprofit Organization,Industry & Finance,data engineer,Unknown,106.5,0,1,0,5743,12.855874519979954,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,South Other,0,0
+3.8,Other,Industry & Finance,data scientist,senior,98.5,0,0,0,4904,12.403624598141242,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,0,0
+4.8,Company - Private,Professional & Other Services,data analyst,Junior,61.0,1,0,1,2934,9.903498824720886,0.37941632137026204,0–15,Medium Company,Public & Essential Services,Mid-size Business,South Other,0,0
+4.4,Company - Private,Professional & Other Services,data scientist,senior,106.5,1,0,0,4127,12.855874519979954,0.37941632137026204,16–30,Small Company,Professional Services,Unknown / N/A,Midwest Other,0,1
+3.9,Company - Private,Tech / Innovation,data engineer,Junior,84.5,1,0,0,2075,11.553800302018274,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,MA,0,1
+3.4,Company - Public,Industry & Finance,Other,Junior,109.5,1,1,1,2962,13.020018781247758,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,Northeast Other,0,0
+3.6,Company - Private,Industry & Finance,data scientist,Unknown,164.0,0,0,1,4414,15.61307124989141,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,1,1
+3.9,Subsidiary or Business Segment,"Health, Education & Retail",data scientist,Unknown,169.0,1,0,1,7106,15.82219964186923,0.37941632137026204,31–55,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,CA,0,1
+3.8,Company - Public,Tech / Innovation,data scientist,Junior,142.0,0,0,0,2397,14.642525807097075,0.37941632137026204,16–30,Large Company,Tech / Innovation,Large Business,CA,1,1
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,76.5,0,0,0,2468,11.028310759736366,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+3.8,Company - Private,Industry & Finance,data scientist,senior,107.0,1,1,1,3010,12.883429392155278,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,MD,0,0
+3.5,Company - Public,Tech / Innovation,data scientist,senior,171.5,1,0,0,4486,15.925325524906926,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,CA,0,1
+3.9,Company - Private,Industry & Finance,data scientist,Junior,96.0,0,0,0,6909,12.257642302369677,0.37941632137026204,0–15,Medium Company,Industry & Business,Unknown / N/A,South Other,0,0
+4.2,Company - Private,Tech / Innovation,data scientist,Junior,142.5,0,0,0,3512,14.665583780188944,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+4.2,Nonprofit Organization,Professional & Other Services,data engineer,Unknown,107.0,0,0,0,2617,12.883429392155278,0.37941632137026204,0–15,Corporation / Multinational,Public & Essential Services,Unknown / N/A,West Other,0,0
+3.5,Company - Private,"Health, Education & Retail",Other,senior,145.0,1,0,1,5391,14.780126975623004,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Large Business,MA,0,0
+2.9,Nonprofit Organization,"Health, Education & Retail",data analyst,senior,61.5,1,1,1,5736,9.942396383323832,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Micro / Small Business,VA,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Entry Level,41.0,0,0,0,2117,8.14888501271967,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+2.7,Other,Industry & Finance,data scientist,senior,120.0,1,1,0,6467,13.573487265610336,0.37941632137026204,55+,Small Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+4.4,Company - Public,"Health, Education & Retail",Other,senior,62.0,0,0,0,5512,9.981098179787683,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+4.0,Company - Public,Tech / Innovation,data scientist,Junior,150.5,0,0,1,2525,15.027877487709832,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,CA,1,1
+4.3,Company - Private,Professional & Other Services,Other,senior,87.5,0,1,0,1961,11.742871439907747,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Unknown / N/A,Midwest Other,0,0
+4.2,Company - Public,Professional & Other Services,data engineer,Junior,71.5,1,0,0,10051,10.682340769484432,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Micro / Small Business,South Other,0,1
+3.6,Subsidiary or Business Segment,"Health, Education & Retail",data analyst,Junior,51.5,0,0,0,4353,9.12340529364286,0.37941632137026204,16–30,Small Company,Industry & Business,Mid-size Business,CA,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,senior,151.5,0,0,1,5801,15.072316384465367,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,CA,0,0
+2.8,Company - Private,Tech / Innovation,data analyst,Junior,77.5,1,1,1,5894,11.09580670992474,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,Northeast Other,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,140.0,0,0,0,2309,14.549786605178722,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+3.3,Company - Private,Industry & Finance,data scientist,Unknown,98.5,0,0,1,3239,12.403624598141242,0.37941632137026204,31–55,Large Company,Industry & Business,Micro / Small Business,Northeast Other,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Junior,55.0,0,0,0,2724,9.42044938889513,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Unknown,161.5,0,0,0,1345,15.507021300123437,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+3.4,Company - Public,Industry & Finance,data scientist,Junior,147.0,0,0,1,4835,14.87088214124904,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,NY,1,1
+4.1,Company - Private,Industry & Finance,data analyst,Entry Level,61.0,0,0,0,2886,9.903498824720886,0.37941632137026204,55+,Medium Company,Public & Essential Services,Large Business,Midwest Other,0,0
+2.6,Other,"Health, Education & Retail",data scientist,Junior,120.0,0,0,1,2808,13.573487265610336,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,1,0
+3.2,Company - Public,Industry & Finance,data scientist,Junior,124.5,0,0,1,1925,13.801481883618488,0.37941632137026204,16–30,Large Company,Industry & Business,Mid-size Business,West Other,1,0
+3.9,Company - Private,Industry & Finance,data scientist,Unknown,148.0,1,0,1,2364,14.915972522390888,0.37941632137026204,16–30,Small Company,Industry & Business,Mid-size Business,CA,0,0
+4.7,Company - Private,Industry & Finance,data analyst,Unknown,59.0,1,0,0,3088,9.745897967734706,0.37941632137026204,16–30,Small Company,Industry & Business,Micro / Small Business,South Other,0,0
+3.7,Company - Public,Industry & Finance,data scientist,senior,146.5,1,0,1,5123,14.848265547238087,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,MA,0,0
+2.9,Company - Public,"Health, Education & Retail",Other,Unknown,91.5,0,0,0,3984,11.988810115699128,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,MA,0,0
+3.0,Company - Private,"Health, Education & Retail",data scientist,semi-senior,133.0,0,0,0,3280,14.218565930489794,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,IL,1,1
+4.7,Company - Private,"Health, Education & Retail",data scientist,Unknown,140.5,0,0,1,4819,14.573048085817037,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,West Other,1,1
+3.7,Company - Private,Tech / Innovation,data engineer,senior,70.5,0,0,0,3670,10.611359641905416,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,0
+3.3,Other,"Health, Education & Retail",Other,Unknown,84.5,0,0,0,3670,11.553800302018274,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+4.0,Company - Private,Tech / Innovation,Other,Unknown,93.5,0,0,0,4637,12.109281259776585,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,MD,0,0
+4.4,Company - Public,"Health, Education & Retail",Other,senior,134.5,0,0,0,4438,14.290436374114835,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,senior,181.0,0,0,0,2015,16.308913882945802,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,CA,1,1
+3.3,Other,"Health, Education & Retail",Other,Unknown,84.5,0,0,0,3627,11.553800302018274,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+4.1,Company - Private,Tech / Innovation,data engineer,Junior,205.0,1,0,0,4037,17.225373902373633,0.37941632137026204,0–15,Small Company,Tech / Innovation,Mid-size Business,CA,0,1
+3.6,Company - Private,Professional & Other Services,data analyst,Entry Level,48.5,0,1,0,4608,8.858656653183187,0.37941632137026204,31–55,Large Company,Professional Services,Mid-size Business,CA,0,0
+4.0,Other,"Health, Education & Retail",Other,Unknown,43.0,0,0,0,5160,8.345541943184143,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,1
+2.4,Company - Private,Industry & Finance,Other,senior,52.5,0,0,1,2433,9.209521137783868,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,IL,0,0
+2.6,Other,"Health, Education & Retail",data scientist,Unknown,124.0,0,0,0,5379,13.776404389536111,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.5,Nonprofit Organization,"Health, Education & Retail",Other,Unknown,64.0,0,1,0,3846,10.1339979952357,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+3.0,Company - Private,"Health, Education & Retail",data engineer,Junior,98.0,1,0,0,2133,12.374613684443108,0.37941632137026204,55+,Corporation / Multinational,Public & Essential Services,Corporation / Multinational,South Other,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Junior,55.0,0,0,0,2801,9.42044938889513,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+3.3,Company - Private,Industry & Finance,Other,Unknown,54.0,0,0,1,2832,9.336806928704416,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Midwest Other,0,0
+2.7,Company - Private,"Health, Education & Retail",Other,Junior,81.0,0,0,1,3776,11.327874888755245,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.4,Company - Public,Professional & Other Services,data engineer,Unknown,107.5,0,0,0,4288,12.910904472673138,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,IL,0,0
+3.8,Company - Private,Professional & Other Services,data scientist,senior,112.5,1,0,1,6408,13.181395355191171,0.37941632137026204,16–30,Medium Company,Public & Essential Services,Unknown / N/A,IL,0,1
+3.7,Company - Public,Industry & Finance,data scientist,semi-senior,89.0,1,1,1,5298,11.835900304852423,0.37941632137026204,16–30,Corporation / Multinational,Industry & Business,Corporation / Multinational,VA,0,1
+4.8,Company - Private,Industry & Finance,data scientist,Junior,100.5,0,0,1,1806,12.518763200183171,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,Midwest Other,0,0
+3.8,Company - Private,Professional & Other Services,data analyst,Unknown,65.0,0,1,0,2469,10.20933722054399,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,0
+3.4,Other,Public Sector,Other,Unknown,40.0,0,0,0,9322,8.048319112788809,0.37941632137026204,55+,Corporation / Multinational,Public & Essential Services,Unknown / N/A,South Other,0,0
+4.3,Subsidiary or Business Segment,Professional & Other Services,data scientist,semi-senior,72.5,1,1,1,5775,10.752708456754247,0.37941632137026204,16–30,Medium Company,Professional Services,Unknown / N/A,South Other,0,1
+4.8,Company - Private,Professional & Other Services,data analyst,Junior,61.0,1,0,1,2934,9.903498824720886,0.37941632137026204,0–15,Medium Company,Public & Essential Services,Mid-size Business,South Other,0,0
+3.4,Company - Public,Industry & Finance,Other,Junior,109.5,1,1,1,2962,13.020018781247758,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,Northeast Other,0,0
+3.9,Company - Private,Tech / Innovation,data engineer,Junior,84.5,1,0,0,2075,11.553800302018274,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,MA,0,1
+3.4,Company - Private,Professional & Other Services,data scientist,Junior,87.5,0,0,1,4082,11.742871439907747,0.37941632137026204,31–55,Small Company,"Health, Education & Media",Micro / Small Business,IL,0,0
+3.1,Company - Public,Professional & Other Services,data analyst,Junior,92.5,1,1,1,3123,12.049247752747563,0.37941632137026204,16–30,Large Company,Tech / Innovation,Corporation / Multinational,CA,0,1
+3.2,Nonprofit Organization,Public Sector,data scientist,Junior,81.5,1,0,0,3144,11.360516041011113,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,VA,0,1
+4.3,Company - Private,Professional & Other Services,Other,semi-senior,79.0,0,0,0,1884,11.19604472675214,0.37941632137026204,31–55,Large Company,Public & Essential Services,Unknown / N/A,Midwest Other,0,0
+3.6,Company - Private,Industry & Finance,data scientist,Unknown,164.0,0,0,1,4414,15.61307124989141,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,1,1
+3.9,Subsidiary or Business Segment,"Health, Education & Retail",data scientist,Unknown,169.0,1,0,1,7106,15.82219964186923,0.37941632137026204,31–55,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,CA,0,1
+3.8,Company - Public,Tech / Innovation,data scientist,Junior,142.0,0,0,0,2397,14.642525807097075,0.37941632137026204,16–30,Large Company,Tech / Innovation,Large Business,CA,1,1
+2.8,Nonprofit Organization,Professional & Other Services,data analyst,senior,47.5,0,0,0,5435,8.768154892697094,0.37941632137026204,0–15,Medium Company,Public & Essential Services,Mid-size Business,CA,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,76.5,0,0,0,2468,11.028310759736366,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+3.4,Company - Private,Tech / Innovation,data analyst,Entry Level,69.0,1,1,1,5483,10.503706619505646,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+4.0,Company - Private,Tech / Innovation,data analyst,Entry Level,49.0,1,1,1,2505,8.90347361579055,0.37941632137026204,31–55,Medium Company,Tech / Innovation,Mid-size Business,West Other,0,0
+3.5,Company - Public,Tech / Innovation,data scientist,senior,171.5,1,0,0,4486,15.925325524906926,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,CA,0,1
+3.8,Company - Private,Industry & Finance,data scientist,senior,107.0,1,1,1,3010,12.883429392155278,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,MD,0,0
+3.7,Company - Private,Tech / Innovation,data analyst,Junior,59.0,0,0,0,2774,9.745897967734706,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,Northeast Other,0,0
+3.5,Company - Private,Tech / Innovation,data scientist,Junior,88.5,0,0,0,7107,11.804999549656221,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Micro / Small Business,Midwest Other,0,1
+4.2,Nonprofit Organization,Professional & Other Services,data engineer,Unknown,107.0,0,0,0,2617,12.883429392155278,0.37941632137026204,0–15,Corporation / Multinational,Public & Essential Services,Unknown / N/A,West Other,0,0
+4.0,Company - Public,"Health, Education & Retail",data scientist,Entry Level,86.5,1,0,1,3698,11.680301114750797,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+4.3,Nonprofit Organization,Professional & Other Services,data scientist,Entry Level,84.0,1,1,0,2907,11.521885409409787,0.37941632137026204,55+,Small Company,Public & Essential Services,Micro / Small Business,South Other,0,0
+4.7,Company - Private,Professional & Other Services,Other,Unknown,114.5,1,1,1,4135,13.28750106509227,0.37941632137026204,31–55,Medium Company,Professional Services,Mid-size Business,NY,0,0
+3.5,Company - Private,"Health, Education & Retail",Other,senior,145.0,1,0,1,5391,14.780126975623004,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Large Business,MA,0,0
+4.4,Company - Public,Tech / Innovation,data engineer,Junior,88.0,1,0,0,4471,11.773990261717742,0.37941632137026204,16–30,Large Company,Tech / Innovation,Mid-size Business,South Other,0,1
+4.1,Company - Private,Tech / Innovation,data engineer,Unknown,100.0,1,0,0,4948,12.490112835757943,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,IL,0,1
+2.9,Nonprofit Organization,"Health, Education & Retail",data analyst,senior,61.5,1,1,1,5736,9.942396383323832,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Micro / Small Business,VA,0,0
+2.5,Company - Public,Professional & Other Services,data scientist,Junior,96.5,1,0,1,4466,12.287025859463858,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Large Business,West Other,0,1
+4.2,Company - Private,Professional & Other Services,data analyst,Unknown,76.0,1,0,0,2385,10.994357345032004,0.37941632137026204,31–55,Medium Company,Professional Services,Unknown / N/A,Midwest Other,0,0
+3.9,Company - Private,Professional & Other Services,data scientist,Unknown,15.5,0,0,1,5019,4.820533532513001,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,NY,0,0
+4.3,Company - Private,Professional & Other Services,data scientist,semi-senior,83.5,1,0,1,3111,11.489852405841216,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Unknown / N/A,South Other,0,0
+2.7,Other,Industry & Finance,data scientist,senior,120.0,1,1,0,6467,13.573487265610336,0.37941632137026204,55+,Small Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+3.9,Subsidiary or Business Segment,"Health, Education & Retail",data scientist,senior,163.0,0,0,1,4502,15.57077248479365,0.37941632137026204,31–55,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,CA,0,0
+3.4,Nonprofit Organization,Industry & Finance,data analyst,senior,100.0,0,0,0,4837,12.490112835757943,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Northeast Other,0,1
+3.8,Nonprofit Organization,Professional & Other Services,Other,senior,52.5,0,0,0,4837,9.209521137783868,0.37941632137026204,55+,Large Company,Public & Essential Services,Unknown / N/A,Midwest Other,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Entry Level,41.0,0,0,0,2117,8.14888501271967,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.3,Nonprofit Organization,"Health, Education & Retail",data analyst,Unknown,50.0,0,1,0,4135,8.992263420235307,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Unknown / N/A,South Other,0,0
+3.4,Company - Private,Professional & Other Services,data engineer,senior,93.0,1,1,1,3799,12.079314581551388,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,South Other,0,1
+3.0,Company - Private,Industry & Finance,data scientist,Unknown,94.5,1,0,1,3421,12.168917618420275,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,Midwest Other,0,0
+4.0,Company - Public,Tech / Innovation,data scientist,Junior,150.5,0,0,1,2525,15.027877487709832,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,CA,1,1
+3.7,Company - Public,Industry & Finance,data scientist,Junior,102.0,0,1,0,5558,12.604187185215123,0.37941632137026204,16–30,Large Company,Industry & Business,Large Business,South Other,1,1
+4.4,Company - Public,"Health, Education & Retail",Other,senior,62.0,0,0,0,5512,9.981098179787683,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+4.3,Company - Private,Professional & Other Services,Other,senior,87.5,0,1,0,1961,11.742871439907747,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Unknown / N/A,Midwest Other,0,0
+4.0,Company - Public,"Health, Education & Retail",data scientist,Unknown,84.0,0,0,0,5015,11.521885409409787,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,Northeast Other,0,1
+4.0,Company - Private,Tech / Innovation,data scientist,Junior,143.0,0,0,1,3760,14.68859159934331,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,1,1
+3.2,Company - Private,Professional & Other Services,data scientist,semi-senior,155.0,0,0,1,1817,15.226434491520832,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,1,1
+4.2,Company - Public,Professional & Other Services,data engineer,Junior,71.5,1,0,0,10051,10.682340769484432,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Micro / Small Business,South Other,0,1
+3.9,Company - Private,Industry & Finance,data scientist,Junior,108.0,0,0,1,3029,12.93830036210818,0.37941632137026204,16–30,Small Company,Industry & Business,Micro / Small Business,CA,1,1
+3.7,Company - Public,"Health, Education & Retail",Other,senior,151.5,0,0,1,5801,15.072316384465367,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,CA,0,0
+3.6,Subsidiary or Business Segment,"Health, Education & Retail",data analyst,Junior,51.5,0,0,0,4353,9.12340529364286,0.37941632137026204,16–30,Small Company,Industry & Business,Mid-size Business,CA,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,140.0,0,0,0,2309,14.549786605178722,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+2.8,Company - Private,Tech / Innovation,data analyst,Junior,77.5,1,1,1,5894,11.09580670992474,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,Northeast Other,0,0
+4.2,Company - Private,Industry & Finance,data analyst,Unknown,63.5,0,0,0,2643,10.0960542522377,0.37941632137026204,16–30,Medium Company,Industry & Business,Mid-size Business,West Other,0,0
+4.0,Company - Private,Tech / Innovation,data scientist,Junior,109.0,1,1,1,714,12.992856933769634,0.37941632137026204,0–15,Small Company,Tech / Innovation,Micro / Small Business,CA,0,0
+3.5,Company - Public,Industry & Finance,data scientist,Junior,96.0,0,0,1,3796,12.257642302369677,0.37941632137026204,Unknown,Large Company,Industry & Business,Mid-size Business,South Other,1,0
+3.2,Company - Public,Industry & Finance,data engineer,Junior,101.0,1,1,0,2501,12.547325243091189,0.37941632137026204,16–30,Large Company,Industry & Business,Mid-size Business,CA,0,1
+3.3,Company - Private,Industry & Finance,data scientist,Unknown,98.5,0,0,1,3239,12.403624598141242,0.37941632137026204,31–55,Large Company,Industry & Business,Micro / Small Business,Northeast Other,0,0
+3.9,Company - Private,Industry & Finance,data engineer,Junior,77.5,0,0,0,3490,11.09580670992474,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,Midwest Other,0,1
+3.7,Company - Public,"Health, Education & Retail",Other,Unknown,161.5,0,0,0,1345,15.507021300123437,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Junior,55.0,0,0,0,2724,9.42044938889513,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+3.4,Company - Public,Industry & Finance,data scientist,Junior,147.0,0,0,1,4835,14.87088214124904,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,NY,1,1
+3.5,Company - Public,Tech / Innovation,data scientist,senior,90.0,0,1,1,1231,11.89738014826414,0.37941632137026204,16–30,Corporation / Multinational,Tech / Innovation,Unknown / N/A,CA,1,0
+4.3,Company - Public,Industry & Finance,data analyst,Junior,58.0,0,0,0,6600,9.6658524109451,0.37941632137026204,55+,Medium Company,Industry & Business,Large Business,Northeast Other,0,1
+4.1,Company - Private,Industry & Finance,data analyst,Entry Level,61.0,0,0,0,2886,9.903498824720886,0.37941632137026204,55+,Medium Company,Public & Essential Services,Large Business,Midwest Other,0,0
+2.6,Other,"Health, Education & Retail",data scientist,Junior,120.0,0,0,1,2808,13.573487265610336,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,1,0
+3.6,Company - Public,"Health, Education & Retail",data scientist,Unknown,128.0,1,0,0,2041,13.975298835028756,0.37941632137026204,Unknown,Large Company,"Health, Education & Media",Mid-size Business,NY,0,0
+3.5,Company - Private,Industry & Finance,data scientist,semi-senior,99.5,0,1,1,4420,12.461373433036002,0.37941632137026204,55+,Large Company,Industry & Business,Mid-size Business,West Other,1,1
+3.6,Company - Private,Professional & Other Services,data scientist,Unknown,96.0,1,0,1,3342,12.257642302369677,0.37941632137026204,16–30,Large Company,Professional Services,Mid-size Business,Midwest Other,0,0
+2.3,Company - Public,"Health, Education & Retail",data scientist,Junior,101.0,1,1,1,1727,12.547325243091189,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+3.9,Company - Private,Industry & Finance,data scientist,Unknown,148.0,1,0,1,2364,14.915972522390888,0.37941632137026204,16–30,Small Company,Industry & Business,Mid-size Business,CA,0,0
+4.0,Company - Private,Tech / Innovation,data scientist,Junior,142.0,1,0,0,4637,14.642525807097075,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,0,1
+4.1,Company - Private,"Health, Education & Retail",data scientist,Junior,169.0,0,1,1,4743,15.82219964186923,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Unknown / N/A,CA,1,1
+3.2,Company - Public,Industry & Finance,data scientist,Junior,124.5,0,0,1,1925,13.801481883618488,0.37941632137026204,16–30,Large Company,Industry & Business,Mid-size Business,West Other,1,0
+4.7,Company - Private,Industry & Finance,data analyst,Unknown,59.0,1,0,0,3088,9.745897967734706,0.37941632137026204,16–30,Small Company,Industry & Business,Micro / Small Business,South Other,0,0
+4.2,Company - Private,Professional & Other Services,data analyst,Junior,52.5,1,0,1,3849,9.209521137783868,0.37941632137026204,31–55,Small Company,Professional Services,Micro / Small Business,CA,0,0
+4.6,Company - Private,Tech / Innovation,data engineer,semi-senior,75.5,0,1,0,2047,10.960265021066744,0.37941632137026204,31–55,Medium Company,Tech / Innovation,Mid-size Business,South Other,0,1
+3.7,Company - Public,Industry & Finance,data scientist,Junior,139.0,1,0,1,4929,14.503108503646049,0.37941632137026204,Unknown,Corporation / Multinational,Industry & Business,Corporation / Multinational,NY,0,0
+3.7,Company - Public,"Health, Education & Retail",data engineer,Junior,102.5,1,1,1,4475,12.63248847222392,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+4.4,Company - Private,Professional & Other Services,Other,Unknown,60.5,0,0,0,1934,9.86440289689446,0.37941632137026204,55+,Medium Company,Professional Services,Micro / Small Business,South Other,0,0
+3.7,Company - Public,Industry & Finance,data scientist,senior,146.5,1,0,1,5123,14.848265547238087,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,MA,0,0
+3.9,Subsidiary or Business Segment,"Health, Education & Retail",Other,senior,125.0,0,0,0,3965,13.826496954564968,0.37941632137026204,31–55,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,CA,0,0
+3.6,Company - Private,Industry & Finance,data analyst,Junior,81.0,1,1,0,4898,11.327874888755245,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.0,Company - Private,"Health, Education & Retail",data scientist,semi-senior,133.0,0,0,0,3280,14.218565930489794,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,IL,1,1
+3.4,Subsidiary or Business Segment,Tech / Innovation,data analyst,Junior,77.0,0,1,1,3256,11.06212673355472,0.37941632137026204,16–30,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,South Other,0,0
+4.1,Company - Public,Professional & Other Services,data engineer,Junior,92.0,0,0,0,3243,12.019079894573215,0.37941632137026204,55+,Large Company,Professional Services,Large Business,VA,0,1
+3.8,Company - Public,"Health, Education & Retail",data scientist,Unknown,121.0,0,0,0,1937,13.624605360121668,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+4.0,Company - Public,Tech / Innovation,data engineer,senior,162.5,1,0,0,2447,15.549562696174755,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,CA,0,1
+3.9,Nonprofit Organization,Professional & Other Services,Other,Unknown,60.0,0,0,1,2026,9.82510593614989,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,South Other,0,0
+3.7235294117647055,Nonprofit Organization,Professional & Other Services,Other,Unknown,87.5,1,1,1,5924,11.742871439907747,0.37941632137026204,0–15,Medium Company,Professional Services,Unknown / N/A,CA,0,0
+4.4,Company - Private,Tech / Innovation,data engineer,Unknown,90.5,1,0,0,1868,11.927961166351116,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,Midwest Other,0,1
+3.8,Company - Public,"Health, Education & Retail",data scientist,Junior,114.5,0,0,1,5045,13.28750106509227,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,1,0
+3.8,Company - Public,Tech / Innovation,data scientist,Entry Level,121.0,0,0,0,2327,13.624605360121668,0.37941632137026204,16–30,Large Company,Tech / Innovation,Large Business,CA,1,1
+2.2,Subsidiary or Business Segment,Professional & Other Services,data scientist,Junior,110.0,0,1,1,6612,13.047103768381282,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+2.9,Company - Public,"Health, Education & Retail",Other,Unknown,91.5,0,0,0,3984,11.988810115699128,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,MA,0,0
+4.1,Company - Public,Professional & Other Services,data analyst,Junior,70.5,0,0,0,4755,10.611359641905416,0.37941632137026204,55+,Large Company,Professional Services,Large Business,VA,0,0
+3.7,Company - Private,Tech / Innovation,data engineer,senior,70.5,0,0,0,3670,10.611359641905416,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,0
+3.8,Other,Industry & Finance,data scientist,Junior,76.5,1,0,1,6411,11.028310759736366,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,0,0
+3.6,Company - Private,Industry & Finance,data engineer,Junior,92.0,1,0,0,2929,12.019079894573215,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,1
+4.7,Company - Private,"Health, Education & Retail",data scientist,Unknown,140.5,0,0,1,4819,14.573048085817037,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,West Other,1,1
+3.5,Company - Private,Tech / Innovation,data scientist,senior,82.0,1,0,0,4196,11.393033155107021,0.37941632137026204,55+,Large Company,Tech / Innovation,Large Business,VA,0,0
+3.3,Other,"Health, Education & Retail",Other,Unknown,84.5,0,0,0,3670,11.553800302018274,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+4.4,Company - Public,"Health, Education & Retail",Other,senior,134.5,0,0,0,4438,14.290436374114835,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+3.3,Company - Private,Professional & Other Services,data scientist,senior,164.5,0,0,0,1688,15.634160624214397,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+3.4,Company - Public,Tech / Innovation,data analyst,Entry Level,44.0,0,0,0,2290,8.441745233879251,0.37941632137026204,31–55,Medium Company,Tech / Innovation,Mid-size Business,South Other,0,0
+4.0,Company - Private,Tech / Innovation,Other,Unknown,93.5,0,0,0,4637,12.109281259776585,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,MD,0,0
+4.4,Company - Private,Tech / Innovation,data engineer,senior,109.0,1,0,0,2353,12.992856933769634,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,VA,0,1
+3.8,Company - Private,Tech / Innovation,data engineer,Unknown,149.5,0,0,0,3297,14.983254967977398,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+3.5,Company - Private,Professional & Other Services,data engineer,Entry Level,65.5,0,0,0,4582,10.246737256624101,0.37941632137026204,16–30,Large Company,Professional Services,Unknown / N/A,South Other,0,1
+3.5,Company - Public,Industry & Finance,data scientist,Unknown,124.5,1,0,1,3870,13.801481883618488,0.37941632137026204,0–15,Large Company,Industry & Business,Unknown / N/A,South Other,0,1
+2.9,Company - Private,Professional & Other Services,data engineer,Unknown,114.0,1,1,0,3333,13.261083159929397,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.9,Nonprofit Organization,Industry & Finance,data analyst,Unknown,49.0,1,1,1,3971,8.90347361579055,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Northeast Other,0,0
+3.3,Other,"Health, Education & Retail",Other,Unknown,84.5,0,0,0,3627,11.553800302018274,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+3.7,Company - Private,Tech / Innovation,data analyst,Junior,71.0,0,1,0,2632,10.646927758751678,0.37941632137026204,31–55,Medium Company,Tech / Innovation,Mid-size Business,VA,0,0
+3.6,Company - Private,Industry & Finance,Other,Junior,101.0,0,0,0,4425,12.547325243091189,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.5,Company - Private,Tech / Innovation,data scientist,Junior,107.0,1,1,1,5000,12.883429392155278,0.37941632137026204,55+,Large Company,Tech / Innovation,Large Business,CA,0,1
+4.7,Company - Private,"Health, Education & Retail",data scientist,Junior,112.5,1,0,1,2161,13.181395355191171,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,MA,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,senior,181.0,0,0,0,2015,16.308913882945802,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,CA,1,1
+3.7,Company - Public,Tech / Innovation,data analyst,Junior,61.0,1,0,0,5768,9.903498824720886,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Large Business,IL,0,1
+4.1,Company - Private,Tech / Innovation,data engineer,Junior,205.0,1,0,0,4037,17.225373902373633,0.37941632137026204,0–15,Small Company,Tech / Innovation,Mid-size Business,CA,0,1
+3.1,Company - Private,Industry & Finance,Other,Unknown,103.5,0,0,1,5182,12.688835081378226,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.6,Company - Private,Industry & Finance,data analyst,Unknown,63.0,0,0,0,5647,10.057924641416694,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.0,Company - Public,Tech / Innovation,Other,Junior,62.5,0,0,0,3449,10.019606766235432,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,Northeast Other,0,0
+3.5,Company - Private,"Health, Education & Retail",data engineer,Unknown,94.5,1,0,0,5743,12.168917618420275,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.6,Company - Private,Professional & Other Services,data analyst,Entry Level,48.5,0,1,0,4608,8.858656653183187,0.37941632137026204,31–55,Large Company,Professional Services,Mid-size Business,CA,0,0
+3.5,Company - Private,"Health, Education & Retail",Other,senior,154.5,1,0,1,4517,15.204550771694912,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Large Business,MA,0,0
+4.0,Other,"Health, Education & Retail",Other,Unknown,43.0,0,0,0,5160,8.345541943184143,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,1
+3.7,Company - Public,Industry & Finance,data scientist,Junior,87.0,1,0,0,2860,11.711642068078532,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,1
+2.4,Company - Private,Industry & Finance,Other,senior,52.5,0,0,1,2433,9.209521137783868,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,IL,0,0
+3.2,Company - Private,Professional & Other Services,data engineer,Entry Level,64.5,1,0,0,2926,10.171758218000301,0.37941632137026204,16–30,Medium Company,Professional Services,Unknown / N/A,NY,0,1
+2.1,Company - Public,"Health, Education & Retail",Other,Junior,111.5,0,0,0,4300,13.127903188165385,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Micro / Small Business,CA,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,154.5,0,0,1,6817,15.204550771694912,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+2.6,Other,"Health, Education & Retail",data scientist,Unknown,124.0,0,0,0,5379,13.776404389536111,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+4.4,Company - Private,Professional & Other Services,data scientist,senior,128.5,1,1,1,3160,13.999888028336144,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,IL,0,1
+3.7,Other,"Health, Education & Retail",Other,Unknown,63.0,0,0,0,1945,10.057924641416694,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Mid-size Business,West Other,0,0
+3.5,Nonprofit Organization,"Health, Education & Retail",Other,Unknown,64.0,0,1,0,3846,10.1339979952357,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+3.0,Company - Private,"Health, Education & Retail",data engineer,Junior,98.0,1,0,0,2133,12.374613684443108,0.37941632137026204,55+,Corporation / Multinational,Public & Essential Services,Corporation / Multinational,South Other,0,0
+4.2,Company - Private,Tech / Innovation,data scientist,Junior,142.5,0,0,1,3833,14.665583780188944,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.9,Company - Public,"Health, Education & Retail",data scientist,Entry Level,137.0,1,0,1,3169,14.409123235901891,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,NY,0,0
+4.0,Nonprofit Organization,Industry & Finance,data engineer,Junior,99.0,1,0,0,4701,12.432544265783939,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,West Other,0,1
+3.3,Company - Private,Industry & Finance,Other,Unknown,54.0,0,0,1,2832,9.336806928704416,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Midwest Other,0,0
+4.4,Company - Private,Tech / Innovation,data scientist,Junior,139.5,1,1,0,2518,14.526473511166222,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,MA,0,0
+3.4,Company - Private,Tech / Innovation,data engineer,Entry Level,109.0,0,0,0,3677,12.992856933769634,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,MD,0,1
+2.9,Subsidiary or Business Segment,"Health, Education & Retail",Other,semi-senior,73.0,0,0,1,3725,10.78766654652698,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+2.7,Company - Private,"Health, Education & Retail",Other,Junior,81.0,0,0,1,3776,11.327874888755245,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Junior,55.0,0,0,0,2801,9.42044938889513,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+3.1,Company - Private,Industry & Finance,Other,senior,99.5,0,0,1,7121,12.461373433036002,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.3,Company - Private,Industry & Finance,data analyst,Unknown,45.5,0,0,0,2867,8.583538789047529,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+4.5,Company - Private,Professional & Other Services,data engineer,semi-senior,122.5,1,0,0,2311,13.700793262476457,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,Midwest Other,0,1
+3.9,Company - Public,Industry & Finance,data scientist,Unknown,140.0,1,0,1,5338,14.549786605178722,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,IL,0,0
+3.2,Nonprofit Organization,Public Sector,data scientist,Junior,77.5,0,0,0,3243,11.09580670992474,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,VA,0,0
+3.3,Company - Private,Professional & Other Services,Other,Unknown,53.0,0,0,0,1848,9.252197607579037,0.37941632137026204,31–55,Small Company,Professional Services,Unknown / N/A,MA,0,0
+3.1,Company - Private,Industry & Finance,Other,senior,117.5,0,0,1,7361,13.444524507619606,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+2.4,Company - Private,"Health, Education & Retail",Other,Junior,70.5,0,0,0,3374,10.611359641905416,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+4.8,Company - Private,Tech / Innovation,Other,Junior,61.5,0,1,0,3693,9.942396383323832,0.37941632137026204,0–15,Small Company,Tech / Innovation,Micro / Small Business,CA,0,0
+2.9,Company - Private,"Health, Education & Retail",Other,Unknown,70.0,0,0,0,4707,10.57563463227452,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,NY,0,0
+2.9,Company - Private,"Health, Education & Retail",Other,Unknown,80.0,0,0,0,4613,11.262215476592438,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,South Other,0,0
+3.4,Company - Private,Industry & Finance,data engineer,Unknown,90.0,0,0,0,2752,11.89738014826414,0.37941632137026204,31–55,Large Company,Industry & Business,Mid-size Business,MA,0,1
+3.7235294117647055,Company - Private,Professional & Other Services,Other,senior,120.0,0,0,0,3309,13.573487265610336,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+2.6,Other,"Health, Education & Retail",Other,Unknown,73.5,0,0,0,3078,10.822476358219792,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.8,Subsidiary or Business Segment,Professional & Other Services,data scientist,senior,91.0,0,1,0,2915,11.958437512010287,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,South Other,1,1
+5.0,Company - Private,Tech / Innovation,data scientist,semi-senior,155.0,0,0,0,3213,15.226434491520832,0.37941632137026204,0–15,,Tech / Innovation,Unknown / N/A,South Other,0,1
+3.6,Company - Private,Industry & Finance,Other,Unknown,129.5,1,1,1,4624,14.048888873087966,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,1
+4.0,Company - Public,"Health, Education & Retail",data scientist,senior,167.5,0,0,0,4914,15.759869040363615,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,NY,0,1
+3.8,Company - Public,Industry & Finance,data analyst,Unknown,60.0,0,0,0,4103,9.82510593614989,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,Midwest Other,0,1
+3.9,Company - Private,Industry & Finance,data scientist,Unknown,180.0,1,0,1,3199,16.269133621490372,0.37941632137026204,16–30,Small Company,Industry & Business,Mid-size Business,CA,0,0
+3.8,Company - Private,Professional & Other Services,data analyst,Unknown,65.0,0,0,1,2501,10.20933722054399,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,0
+4.3,Company - Private,Tech / Innovation,data engineer,senior,112.5,1,0,0,4577,13.181395355191171,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,South Other,0,1
+1.9,Company - Private,"Health, Education & Retail",data analyst,Junior,87.5,1,0,1,4537,11.742871439907747,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,NY,0,0
+3.3,Company - Private,Industry & Finance,data engineer,Junior,51.5,1,0,0,4323,9.12340529364286,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,Midwest Other,0,0
+4.7,Company - Private,Professional & Other Services,Other,Unknown,51.0,0,0,0,4223,9.079957910326037,0.37941632137026204,31–55,Small Company,Professional Services,Micro / Small Business,CA,0,0
+3.1,Company - Private,Industry & Finance,data scientist,Junior,62.5,1,0,1,3325,10.019606766235432,0.37941632137026204,Unknown,Corporation / Multinational,Industry & Business,Corporation / Multinational,MA,0,0
+3.4,Company - Public,"Health, Education & Retail",data engineer,Junior,100.0,0,0,0,3889,12.490112835757943,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,West Other,0,1
+4.4,Company - Private,Tech / Innovation,data engineer,semi-senior,85.0,1,0,0,2869,11.585598214198749,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,VA,0,1
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,122.0,1,0,0,5647,13.675461947902846,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+3.9,Company - Private,Tech / Innovation,Other,Junior,66.5,1,1,1,4759,10.321009220755032,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,IL,0,0
+4.7,Company - Private,Industry & Finance,Other,Unknown,70.5,0,1,0,2708,10.611359641905416,0.37941632137026204,16–30,Large Company,Industry & Business,Unknown / N/A,Midwest Other,0,1
+4.7,Company - Private,Professional & Other Services,data engineer,Junior,138.5,0,0,0,4854,14.479691279652293,0.37941632137026204,0–15,Small Company,Public & Essential Services,Micro / Small Business,South Other,1,1
+3.4,Company - Private,Professional & Other Services,data scientist,Junior,107.5,0,1,1,8761,12.910904472673138,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,MA,0,1
+3.8,Company - Public,"Health, Education & Retail",Other,Unknown,120.5,0,0,1,2683,13.599079220705098,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+2.7,Company - Private,"Health, Education & Retail",Other,Junior,81.0,0,0,1,4740,11.327874888755245,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.1,Company - Private,Industry & Finance,Other,Unknown,103.5,0,0,1,5169,12.688835081378226,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.4,Company - Public,Professional & Other Services,data engineer,Unknown,107.5,0,0,0,4288,12.910904472673138,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,IL,0,0
+4.0,Company - Private,Tech / Innovation,data engineer,semi-senior,162.0,1,0,0,3978,15.528312368938376,0.37941632137026204,16–30,Large Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.5,Company - Private,Tech / Innovation,data scientist,Entry Level,68.5,0,0,1,3413,10.467499871902241,0.37941632137026204,55+,Large Company,Tech / Innovation,Large Business,CA,1,1
+3.4,Company - Public,Industry & Finance,data scientist,Junior,110.5,0,0,0,1735,13.074112460551842,0.37941632137026204,31–55,Corporation / Multinational,Industry & Business,Large Business,Midwest Other,1,0
+3.7,Company - Public,Industry & Finance,data scientist,senior,81.0,0,1,1,2739,11.327874888755245,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,IL,0,0
+4.3,Company - Public,Professional & Other Services,data scientist,Entry Level,130.0,0,1,1,9120,14.07330126490502,0.37941632137026204,31–55,Large Company,Professional Services,Large Business,IL,1,1
+3.7,Subsidiary or Business Segment,Industry & Finance,data engineer,Junior,115.5,1,1,0,6569,13.340122892980046,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+3.8,Other,Industry & Finance,data scientist,Junior,80.5,0,0,0,5188,11.295108455115429,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,1,0
+4.6,Company - Private,Industry & Finance,data analyst,Unknown,43.0,0,1,0,4328,8.345541943184143,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+4.4,Company - Public,"Health, Education & Retail",Other,Junior,140.0,0,0,0,5449,14.549786605178722,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,MA,0,0
+3.7235294117647055,Company - Private,Professional & Other Services,Other,senior,120.0,0,0,1,3214,13.573487265610336,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+3.0,Company - Private,Industry & Finance,data analyst,senior,66.5,0,1,0,3766,10.321009220755032,0.37941632137026204,31–55,Large Company,Industry & Business,Large Business,Northeast Other,0,0
+4.7,Company - Private,Professional & Other Services,data engineer,Unknown,94.5,1,0,0,1504,12.168917618420275,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,CA,0,1
+3.8,Other,Industry & Finance,data scientist,senior,119.0,0,0,0,5186,13.52210412352648,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,1,0
+3.2,Nonprofit Organization,"Health, Education & Retail",Other,Unknown,50.0,0,0,0,1844,8.992263420235307,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,Midwest Other,0,0
+2.7,Company - Public,Industry & Finance,data analyst,semi-senior,27.0,0,1,0,4299,6.568164094357207,0.37941632137026204,16–30,Large Company,Industry & Business,Large Business,South Other,0,0
+3.3,Company - Private,Industry & Finance,data scientist,semi-senior,194.5,1,0,1,3935,16.833094915093177,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,IL,0,0
+3.9,Nonprofit Organization,Professional & Other Services,Other,Unknown,71.5,1,0,0,2332,10.682340769484432,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,South Other,0,1
+3.7,Other,"Health, Education & Retail",data scientist,senior,105.5,0,0,1,8734,12.800522961232547,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,South Other,1,1
+3.1,Company - Private,Industry & Finance,Other,Unknown,74.0,0,0,1,6034,10.857139523085925,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.7,Company - Public,Industry & Finance,data analyst,Junior,62.5,0,0,0,4774,10.019606766235432,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,South Other,0,0
+4.3,Nonprofit Organization,Professional & Other Services,Other,Unknown,65.5,0,0,0,2222,10.246737256624101,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,South Other,0,0
+3.6,Company - Private,Professional & Other Services,data scientist,senior,161.5,1,1,0,5121,15.507021300123437,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,1
+2.1,Other,"Health, Education & Retail",data analyst,Entry Level,72.5,0,1,1,1359,10.752708456754247,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Mid-size Business,Northeast Other,0,0
+3.9,Company - Public,Tech / Innovation,data engineer,Junior,139.0,1,0,0,4915,14.503108503646049,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,CA,0,1
+3.9,Company - Private,Tech / Innovation,data engineer,Junior,136.5,0,0,0,3466,14.385494058396475,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,CA,0,0
+3.8,Company - Private,Professional & Other Services,data scientist,Unknown,74.5,1,0,0,3172,10.891657643554465,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,1
+3.1,Company - Private,Industry & Finance,Other,Unknown,80.5,0,0,1,5749,11.295108455115429,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.5,Company - Public,"Health, Education & Retail",data scientist,senior,75.5,1,0,0,3543,10.960265021066744,0.37941632137026204,Unknown,Large Company,"Health, Education & Media",Large Business,West Other,0,0
+4.7,Company - Private,Tech / Innovation,data scientist,senior,143.5,0,0,1,5020,14.71154954844432,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,Midwest Other,1,1
+5.0,Company - Private,Industry & Finance,data scientist,senior,101.0,1,0,0,2711,12.547325243091189,0.37941632137026204,0–15,Small Company,Industry & Business,Micro / Small Business,VA,0,0
+3.6,Company - Private,Industry & Finance,data engineer,Junior,92.0,1,0,0,2929,12.019079894573215,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,1
+3.8,Other,Industry & Finance,data scientist,Junior,76.5,1,0,1,6411,11.028310759736366,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,0,0
+4.7,Company - Private,"Health, Education & Retail",data scientist,Unknown,140.5,0,0,1,4819,14.573048085817037,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,West Other,1,1
+3.6,Company - Public,Industry & Finance,data scientist,senior,116.5,0,0,0,3948,13.392462736410097,0.37941632137026204,Unknown,Corporation / Multinational,Industry & Business,Corporation / Multinational,Northeast Other,0,0
+4.7,Subsidiary or Business Segment,Tech / Innovation,data scientist,Junior,232.5,0,0,0,3855,18.19697317162868,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,CA,1,0
+3.5,Company - Private,Tech / Innovation,data scientist,Junior,120.5,1,0,1,2288,13.599079220705098,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.5,Company - Private,Tech / Innovation,data scientist,senior,82.0,1,0,0,4196,11.393033155107021,0.37941632137026204,55+,Large Company,Tech / Innovation,Large Business,VA,0,0
+3.3,Other,"Health, Education & Retail",Other,Unknown,84.5,0,0,0,3670,11.553800302018274,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+2.7,Company - Public,Tech / Innovation,data scientist,senior,153.0,0,0,0,6995,15.138634715266168,0.37941632137026204,16–30,Corporation / Multinational,Tech / Innovation,Unknown / N/A,CA,1,1
+3.4,Company - Private,Tech / Innovation,data scientist,Junior,127.0,1,0,1,3362,13.925941027098187,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,CA,0,1
+4.7,Company - Private,Tech / Innovation,data scientist,Junior,85.5,0,0,0,3740,11.617280259087407,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,1,1
+2.8,Company - Public,Professional & Other Services,data scientist,Unknown,76.5,1,1,0,3000,11.028310759736366,0.37941632137026204,31–55,Large Company,Industry & Business,Large Business,NY,0,0
+3.5,Subsidiary or Business Segment,Professional & Other Services,data scientist,Unknown,128.0,0,1,0,4140,13.975298835028756,0.37941632137026204,31–55,Large Company,Tech / Innovation,Mid-size Business,NY,1,1
+3.2,Company - Private,Professional & Other Services,data engineer,Junior,91.5,1,0,0,1484,11.988810115699128,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,0,1
+4.4,Company - Public,"Health, Education & Retail",Other,senior,134.5,0,0,0,4438,14.290436374114835,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+3.3,Company - Private,Professional & Other Services,data scientist,senior,164.5,0,0,0,1688,15.634160624214397,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+4.0,Company - Private,Tech / Innovation,Other,Unknown,93.5,0,0,0,4637,12.109281259776585,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,MD,0,0
+3.4,Company - Public,Tech / Innovation,data analyst,Entry Level,44.0,0,0,0,2290,8.441745233879251,0.37941632137026204,31–55,Medium Company,Tech / Innovation,Mid-size Business,South Other,0,0
+3.8,Company - Private,Tech / Innovation,data engineer,Unknown,149.5,0,0,0,3297,14.983254967977398,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+3.5,Company - Private,Professional & Other Services,data engineer,Entry Level,65.5,0,0,0,4582,10.246737256624101,0.37941632137026204,16–30,Large Company,Professional Services,Unknown / N/A,South Other,0,1
+4.4,Company - Private,Tech / Innovation,data engineer,senior,109.0,1,0,0,2353,12.992856933769634,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,VA,0,1
+3.7,Subsidiary or Business Segment,Tech / Innovation,data engineer,Junior,177.0,1,0,0,3218,16.148963509573868,0.37941632137026204,31–55,Large Company,Tech / Innovation,Mid-size Business,CA,0,1
+4.7,Company - Private,Industry & Finance,data scientist,senior,107.0,0,0,0,3703,12.883429392155278,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,VA,1,1
+4.1,Company - Private,Tech / Innovation,data scientist,senior,154.5,0,0,1,4203,15.204550771694912,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,CA,1,1
+4.0,Company - Private,Professional & Other Services,data scientist,senior,113.5,1,0,1,1034,13.234593250723261,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,CA,0,1
+3.5,Company - Public,Industry & Finance,data scientist,Unknown,124.5,1,0,1,3870,13.801481883618488,0.37941632137026204,0–15,Large Company,Industry & Business,Unknown / N/A,South Other,0,1
+2.5,Company - Private,"Health, Education & Retail",data scientist,Unknown,143.5,1,0,1,3885,14.71154954844432,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,113.5,1,0,0,2759,13.234593250723261,0.37941632137026204,0–15,Small Company,Tech / Innovation,Micro / Small Business,CA,0,0
+3.4,Company - Public,Industry & Finance,data scientist,Junior,101.5,0,0,1,2882,12.575799671976727,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,VA,1,1
+3.6,Subsidiary or Business Segment,Industry & Finance,data analyst,senior,73.0,0,1,0,6513,10.78766654652698,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Large Business,NY,0,1
+3.5,Company - Public,Professional & Other Services,data scientist,Junior,80.5,1,0,1,6438,11.295108455115429,0.37941632137026204,0–15,Corporation / Multinational,Professional Services,Large Business,NY,0,1
+3.7235294117647055,Company - Private,Professional & Other Services,data scientist,Unknown,110.5,0,0,0,1838,13.074112460551842,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,NY,1,0
+2.9,Company - Private,Professional & Other Services,data engineer,Unknown,114.0,1,1,0,3333,13.261083159929397,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.5,Company - Private,Professional & Other Services,data scientist,semi-senior,139.5,1,0,1,1131,14.526473511166222,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,CA,0,0
+4.8,Company - Private,Tech / Innovation,data scientist,Unknown,145.5,1,1,1,2145,14.802888232049735,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,NY,0,0
+4.0,Company - Private,Industry & Finance,data scientist,senior,87.0,0,0,1,2496,11.711642068078532,0.37941632137026204,16–30,Medium Company,Industry & Business,Mid-size Business,NY,0,0
+4.2,Company - Private,Industry & Finance,data scientist,semi-senior,100.5,0,0,0,5013,12.518763200183171,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,MA,0,0
+3.8,Company - Public,Tech / Innovation,data scientist,senior,147.0,0,0,1,5478,14.87088214124904,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,NY,1,1
+3.7,Company - Private,Industry & Finance,data engineer,Unknown,110.5,1,0,1,1506,13.074112460551842,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,NY,0,0
+3.9,Nonprofit Organization,Industry & Finance,data analyst,Unknown,49.0,1,1,1,3971,8.90347361579055,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Northeast Other,0,0
+4.6,Company - Private,Professional & Other Services,data scientist,Junior,94.0,1,1,0,2956,12.1391486539201,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,MA,0,1
+4.3,Company - Public,Tech / Innovation,data scientist,senior,123.5,1,0,1,4816,13.751264063893865,0.37941632137026204,16–30,Large Company,Tech / Innovation,Mid-size Business,NY,0,1
+3.3,Other,"Health, Education & Retail",Other,Unknown,84.5,0,0,0,3627,11.553800302018274,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Mid-size Business,NY,0,0
+3.7,Company - Private,Tech / Innovation,data analyst,Junior,71.0,0,1,0,2632,10.646927758751678,0.37941632137026204,31–55,Medium Company,Tech / Innovation,Mid-size Business,VA,0,0
+4.0,Company - Public,Tech / Innovation,data engineer,Unknown,73.0,0,0,0,2195,10.78766654652698,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Unknown / N/A,West Other,0,0
+3.6,Company - Private,Industry & Finance,Other,Junior,101.0,0,0,0,4425,12.547325243091189,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,senior,181.0,0,0,0,2015,16.308913882945802,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,CA,1,1
+3.7,Company - Public,Industry & Finance,data scientist,Entry Level,109.5,0,1,1,4448,13.020018781247758,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,CA,0,0
+3.7,Company - Public,Tech / Innovation,data scientist,senior,184.5,1,1,1,7286,16.44708044231712,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,West Other,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,165.0,0,0,0,4815,15.655210255643448,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,NY,1,1
+3.7,Company - Public,Tech / Innovation,data analyst,Junior,61.0,1,0,0,5768,9.903498824720886,0.37941632137026204,55+,Corporation / Multinational,Tech / Innovation,Large Business,IL,0,1
+4.1,Company - Private,Tech / Innovation,data engineer,Junior,205.0,1,0,0,4037,17.225373902373633,0.37941632137026204,0–15,Small Company,Tech / Innovation,Mid-size Business,CA,0,1
+3.1,Other,"Health, Education & Retail",data analyst,Junior,59.5,0,0,1,4348,9.785605220469765,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Mid-size Business,NY,1,0
+3.1,Company - Private,Industry & Finance,Other,Unknown,103.5,0,0,1,5182,12.688835081378226,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.0,Company - Public,Tech / Innovation,Other,Junior,62.5,0,0,0,3449,10.019606766235432,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,Northeast Other,0,0
+3.6,Company - Private,Industry & Finance,data analyst,Unknown,63.0,0,0,0,5647,10.057924641416694,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.6,Company - Private,"Health, Education & Retail",data analyst,Unknown,66.0,0,0,0,2292,10.28396053501821,0.37941632137026204,31–55,Small Company,"Health, Education & Media",Micro / Small Business,NY,0,0
+3.5,Company - Private,"Health, Education & Retail",data engineer,Unknown,94.5,1,0,0,5743,12.168917618420275,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+4.2,Company - Private,"Health, Education & Retail",data scientist,Junior,75.5,1,1,1,4341,10.960265021066744,0.37941632137026204,0–15,Small Company,Professional Services,Unknown / N/A,NY,0,1
+4.0,Company - Public,Industry & Finance,data scientist,Junior,87.0,1,0,0,3127,11.711642068078532,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,VA,0,0
+3.9,Company - Public,"Health, Education & Retail",data scientist,senior,140.0,1,0,1,4572,14.549786605178722,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MD,0,0
+3.7,Company - Private,Tech / Innovation,data scientist,senior,86.0,1,0,1,6626,11.648847532792228,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,MD,0,0
+4.4,Company - Private,Tech / Innovation,data scientist,Unknown,116.5,1,0,1,1211,13.392462736410097,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.5,Company - Private,"Health, Education & Retail",Other,senior,154.5,1,0,1,4517,15.204550771694912,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Large Business,MA,0,0
+3.7,Company - Public,Industry & Finance,data scientist,Junior,87.0,1,0,0,2860,11.711642068078532,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,1
+3.6,Company - Private,Professional & Other Services,data analyst,Entry Level,48.5,0,1,0,4608,8.858656653183187,0.37941632137026204,31–55,Large Company,Professional Services,Mid-size Business,CA,0,0
+3.4,Company - Private,Tech / Innovation,data engineer,Junior,80.0,1,0,0,7802,11.262215476592438,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Large Business,South Other,0,1
+4.0,Other,"Health, Education & Retail",Other,Unknown,43.0,0,0,0,5160,8.345541943184143,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,1
+2.4,Company - Private,Industry & Finance,Other,senior,52.5,0,0,1,2433,9.209521137783868,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,IL,0,0
+3.7,Company - Public,Industry & Finance,data scientist,senior,173.0,1,0,0,5884,15.986753856202851,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,CA,0,0
+3.5,Company - Private,"Health, Education & Retail",data engineer,Entry Level,68.5,1,0,0,1230,10.467499871902241,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,West Other,0,1
+4.4,Company - Private,Industry & Finance,data scientist,Junior,172.0,0,0,1,3222,15.94583855016356,0.37941632137026204,16–30,Large Company,Industry & Business,Unknown / N/A,NY,1,0
+3.3,Company - Private,Industry & Finance,data scientist,semi-senior,114.5,1,0,1,4244,13.28750106509227,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,MA,0,0
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,95.0,0,0,0,3110,12.198588995887503,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MD,0,0
+3.2,Nonprofit Organization,Public Sector,data scientist,Unknown,69.5,1,1,1,4478,10.53975090966913,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,MA,0,0
+3.2,Company - Private,Professional & Other Services,data engineer,Entry Level,64.5,1,0,0,2926,10.171758218000301,0.37941632137026204,16–30,Medium Company,Professional Services,Unknown / N/A,NY,0,1
+2.1,Company - Public,"Health, Education & Retail",Other,Junior,111.5,0,0,0,4300,13.127903188165385,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Micro / Small Business,CA,0,0
+4.0,Company - Private,Professional & Other Services,data scientist,semi-senior,97.5,1,0,1,3431,12.345510769039018,0.37941632137026204,16–30,Medium Company,Professional Services,Unknown / N/A,NY,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,154.5,0,0,1,6817,15.204550771694912,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+2.6,Other,"Health, Education & Retail",data scientist,Unknown,124.0,0,0,0,5379,13.776404389536111,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.4,Company - Private,"Health, Education & Retail",data scientist,semi-senior,95.0,1,1,0,3111,12.198588995887503,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,NY,0,1
+4.4,Company - Private,Professional & Other Services,data scientist,senior,128.5,1,1,1,3160,13.999888028336144,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,IL,0,1
+3.2,Subsidiary or Business Segment,Tech / Innovation,data scientist,Junior,194.0,0,0,0,4847,16.814090670101706,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.5,Company - Public,Professional & Other Services,data scientist,senior,104.5,1,0,1,4134,12.744844841539297,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,NY,0,1
+3.7,Other,"Health, Education & Retail",Other,Unknown,63.0,0,0,0,1945,10.057924641416694,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Mid-size Business,West Other,0,0
+4.2,Company - Private,Tech / Innovation,data engineer,Unknown,85.5,1,0,0,5192,11.617280259087407,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+4.2,Nonprofit Organization,Professional & Other Services,data analyst,Unknown,50.0,0,0,0,4525,8.992263420235307,0.37941632137026204,0–15,Corporation / Multinational,Public & Essential Services,Unknown / N/A,West Other,0,1
+3.1,Company - Public,Professional & Other Services,data engineer,Unknown,113.0,1,0,0,2421,13.20803082272062,0.37941632137026204,16–30,Large Company,Tech / Innovation,Corporation / Multinational,CA,0,1
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,90.5,0,0,0,5838,11.927961166351116,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+4.3,Company - Private,Tech / Innovation,data scientist,Unknown,153.0,1,0,0,2095,15.138634715266168,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.3,Company - Public,Professional & Other Services,data analyst,Junior,123.5,0,1,1,7383,13.751264063893865,0.37941632137026204,31–55,Large Company,Professional Services,Large Business,CA,0,0
+3.9,Company - Private,Tech / Innovation,data analyst,Unknown,47.0,0,0,0,2460,8.722460216335108,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Micro / Small Business,NY,0,1
+3.5,Nonprofit Organization,"Health, Education & Retail",Other,Unknown,64.0,0,1,0,3846,10.1339979952357,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+4.0,Company - Public,Tech / Innovation,data scientist,Unknown,162.0,1,1,0,3864,15.528312368938376,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Large Business,CA,0,1
+3.9,Company - Public,"Health, Education & Retail",data scientist,Entry Level,137.0,1,0,1,3169,14.409123235901891,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,NY,0,0
+3.0,Company - Private,"Health, Education & Retail",data engineer,Junior,98.0,1,0,0,2133,12.374613684443108,0.37941632137026204,55+,Corporation / Multinational,Public & Essential Services,Corporation / Multinational,South Other,0,0
+3.7,Company - Public,Industry & Finance,data scientist,Junior,115.0,1,0,1,4734,13.313847475082381,0.37941632137026204,Unknown,Corporation / Multinational,Industry & Business,Corporation / Multinational,NY,0,0
+3.5,Company - Public,"Health, Education & Retail",data scientist,senior,133.5,1,0,0,3555,14.2425783798924,0.37941632137026204,Unknown,Large Company,"Health, Education & Media",Large Business,West Other,0,0
+4.0,Nonprofit Organization,Industry & Finance,data engineer,Junior,99.0,1,0,0,4701,12.432544265783939,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,West Other,0,1
+3.3,Company - Private,Industry & Finance,Other,Unknown,54.0,0,0,1,2832,9.336806928704416,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Midwest Other,0,0
+3.2,Company - Private,"Health, Education & Retail",data engineer,Junior,109.0,0,0,0,1793,12.992856933769634,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Unknown / N/A,South Other,0,1
+3.4,Company - Private,Tech / Innovation,data engineer,Entry Level,109.0,0,0,0,3677,12.992856933769634,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,MD,0,1
+4.4,Company - Private,Tech / Innovation,data scientist,Junior,139.5,1,1,0,2518,14.526473511166222,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,MA,0,0
+3.2,Company - Private,Tech / Innovation,data scientist,Junior,125.0,0,0,0,3516,13.826496954564968,0.37941632137026204,31–55,Large Company,Tech / Innovation,Unknown / N/A,NY,1,1
+3.8,Company - Public,"Health, Education & Retail",data scientist,senior,106.5,1,1,1,4033,12.855874519979954,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+2.9,Subsidiary or Business Segment,"Health, Education & Retail",Other,semi-senior,73.0,0,0,1,3725,10.78766654652698,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+2.7,Company - Private,"Health, Education & Retail",Other,Junior,81.0,0,0,1,3776,11.327874888755245,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Junior,55.0,0,0,0,2801,9.42044938889513,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+3.1,Company - Private,Industry & Finance,Other,senior,99.5,0,0,1,7121,12.461373433036002,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.3,Company - Private,Industry & Finance,data analyst,Unknown,45.5,0,0,0,2867,8.583538789047529,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+3.7,Company - Public,Industry & Finance,data analyst,Unknown,54.0,0,0,0,3783,9.336806928704416,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,MA,0,0
+4.5,Company - Private,Professional & Other Services,data engineer,semi-senior,122.5,1,0,0,2311,13.700793262476457,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,Midwest Other,0,1
+3.0,Subsidiary or Business Segment,Tech / Innovation,data analyst,Junior,37.5,0,0,0,6175,7.789878780487946,0.37941632137026204,31–55,Large Company,Tech / Innovation,Mid-size Business,South Other,0,0
+3.8,Company - Private,Professional & Other Services,data analyst,Entry Level,53.5,1,0,1,2479,9.29462495042709,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,0
+3.9,Company - Public,Industry & Finance,data scientist,Unknown,140.0,1,0,1,5338,14.549786605178722,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,IL,0,0
+3.2,Nonprofit Organization,Public Sector,data scientist,Junior,77.5,0,0,0,3243,11.09580670992474,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,VA,0,0
+3.3,Company - Private,Professional & Other Services,Other,Unknown,53.0,0,0,0,1848,9.252197607579037,0.37941632137026204,31–55,Small Company,Professional Services,Unknown / N/A,MA,0,0
+3.1,Company - Private,Industry & Finance,Other,senior,117.5,0,0,1,7361,13.444524507619606,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+2.4,Company - Private,"Health, Education & Retail",Other,Junior,70.5,0,0,0,3374,10.611359641905416,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+2.9,Company - Private,"Health, Education & Retail",Other,Unknown,70.0,0,0,0,4707,10.57563463227452,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,NY,0,0
+4.8,Company - Private,Tech / Innovation,Other,Junior,61.5,0,1,0,3693,9.942396383323832,0.37941632137026204,0–15,Small Company,Tech / Innovation,Micro / Small Business,CA,0,0
+2.9,Company - Private,"Health, Education & Retail",Other,Unknown,80.0,0,0,0,4613,11.262215476592438,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,South Other,0,0
+4.7,Company - Private,Tech / Innovation,data scientist,semi-senior,79.5,0,0,1,3081,11.229194668952088,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,South Other,1,0
+4.7,Company - Private,Tech / Innovation,data scientist,Unknown,168.0,1,1,1,3939,15.78068425579945,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,CA,0,0
+3.4,Company - Private,Industry & Finance,data engineer,Unknown,90.0,0,0,0,2752,11.89738014826414,0.37941632137026204,31–55,Large Company,Industry & Business,Mid-size Business,MA,0,1
+3.7235294117647055,Company - Private,Professional & Other Services,Other,senior,120.0,0,0,0,3309,13.573487265610336,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+3.9,Company - Public,Tech / Innovation,data analyst,Unknown,138.5,1,1,1,5717,14.479691279652293,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.6,Company - Public,"Health, Education & Retail",data scientist,semi-senior,111.5,0,0,0,5025,13.127903188165385,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Large Business,Northeast Other,0,0
+3.6,Company - Private,Industry & Finance,data scientist,Unknown,68.5,0,0,0,5016,10.467499871902241,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,84.5,0,0,0,6162,11.553800302018274,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+4.4,Company - Public,Tech / Innovation,data engineer,senior,102.5,1,0,0,6130,12.63248847222392,0.37941632137026204,16–30,Large Company,Tech / Innovation,Mid-size Business,South Other,0,1
+2.6,Other,"Health, Education & Retail",Other,Unknown,73.5,0,0,0,3078,10.822476358219792,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.6,Nonprofit Organization,Public Sector,Other,semi-senior,93.5,1,0,0,3673,12.109281259776585,0.37941632137026204,55+,Medium Company,Public & Essential Services,Mid-size Business,Midwest Other,0,0
+3.2,Company - Private,Professional & Other Services,data scientist,Junior,127.5,0,0,1,1642,13.950649961198543,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,0,0
+4.2,Nonprofit Organization,Professional & Other Services,data analyst,Unknown,72.0,0,1,1,2811,10.717600428102928,0.37941632137026204,0–15,Corporation / Multinational,Public & Essential Services,Unknown / N/A,West Other,0,0
+3.6,Company - Private,Industry & Finance,Other,Unknown,129.5,1,1,1,4624,14.048888873087966,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,1
+3.1,Company - Private,Industry & Finance,data analyst,Junior,47.0,1,1,0,4386,8.722460216335108,0.37941632137026204,31–55,Large Company,Industry & Business,Mid-size Business,West Other,0,0
+3.8,Subsidiary or Business Segment,Professional & Other Services,data engineer,Unknown,65.0,1,0,0,3585,10.20933722054399,0.37941632137026204,0–15,Medium Company,Professional Services,Unknown / N/A,South Other,0,1
+3.8,Company - Public,Industry & Finance,data analyst,Unknown,60.0,0,0,0,4103,9.82510593614989,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,Midwest Other,0,1
+4.0,Company - Public,"Health, Education & Retail",data scientist,senior,167.5,0,0,0,4914,15.759869040363615,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,NY,0,1
+3.8,Company - Private,Professional & Other Services,data analyst,Unknown,65.0,0,0,1,2501,10.20933722054399,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,0
+4.0,Company - Private,Tech / Innovation,data analyst,senior,94.0,1,0,1,4096,12.1391486539201,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,0,0
+1.9,Company - Private,"Health, Education & Retail",data analyst,Junior,87.5,1,0,1,4537,11.742871439907747,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,NY,0,0
+4.0,Company - Private,Tech / Innovation,data engineer,Junior,97.0,1,0,0,6152,12.316315086107084,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,0,1
+4.3,Company - Private,Tech / Innovation,data engineer,senior,112.5,1,0,0,4577,13.181395355191171,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,South Other,0,1
+3.6,Company - Private,Industry & Finance,Other,senior,91.5,0,0,0,4260,11.988810115699128,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,1
+3.3,Company - Private,Industry & Finance,data engineer,Junior,51.5,1,0,0,4323,9.12340529364286,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,Midwest Other,0,0
+3.8,Company - Public,"Health, Education & Retail",data scientist,Unknown,114.5,0,0,0,1768,13.28750106509227,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+4.3,Company - Private,Professional & Other Services,data scientist,Unknown,115.0,1,1,1,1382,13.313847475082381,0.37941632137026204,0–15,Medium Company,Professional Services,Micro / Small Business,NY,0,1
+3.2,Company - Private,Professional & Other Services,Other,Unknown,74.0,1,0,0,1790,10.857139523085925,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,0,1
+4.7,Company - Private,Professional & Other Services,Other,Unknown,51.0,0,0,0,4223,9.079957910326037,0.37941632137026204,31–55,Small Company,Professional Services,Micro / Small Business,CA,0,0
+3.4,Company - Public,"Health, Education & Retail",data engineer,Junior,100.0,0,0,0,3889,12.490112835757943,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,West Other,0,1
+3.8,Company - Public,"Health, Education & Retail",data scientist,Unknown,121.0,0,0,0,1919,13.624605360121668,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+4.5,Company - Private,Tech / Innovation,data analyst,senior,121.5,0,1,0,3726,13.650066124040958,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,CA,0,0
+3.1,Company - Private,Industry & Finance,data scientist,Junior,62.5,1,0,1,3325,10.019606766235432,0.37941632137026204,Unknown,Corporation / Multinational,Industry & Business,Corporation / Multinational,MA,0,0
+3.7235294117647055,Other,Professional & Other Services,Other,senior,117.5,0,0,0,3437,13.444524507619606,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,122.0,1,0,0,5647,13.675461947902846,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+4.4,Company - Private,Tech / Innovation,data engineer,semi-senior,85.0,1,0,0,2869,11.585598214198749,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,VA,0,1
+3.4,Company - Private,Tech / Innovation,data engineer,Junior,60.5,1,0,0,1214,9.86440289689446,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,West Other,0,1
+3.9,Company - Private,Industry & Finance,data scientist,Unknown,180.0,1,0,1,3199,16.269133621490372,0.37941632137026204,16–30,Small Company,Industry & Business,Mid-size Business,CA,0,0
+4.7,Company - Private,Industry & Finance,Other,Unknown,70.5,0,1,0,2708,10.611359641905416,0.37941632137026204,16–30,Large Company,Industry & Business,Unknown / N/A,Midwest Other,0,1
+3.3,Company - Private,Industry & Finance,data engineer,Junior,118.5,1,0,0,3392,13.496312031818968,0.37941632137026204,0–15,Large Company,Industry & Business,Large Business,VA,0,1
+3.9,Company - Private,Tech / Innovation,Other,Junior,66.5,1,1,1,4759,10.321009220755032,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Mid-size Business,IL,0,0
+3.4,Company - Private,Professional & Other Services,data scientist,Junior,107.5,0,1,1,8761,12.910904472673138,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,MA,0,1
+4.7,Company - Private,Professional & Other Services,data engineer,Junior,138.5,0,0,0,4854,14.479691279652293,0.37941632137026204,0–15,Small Company,Public & Essential Services,Micro / Small Business,South Other,1,1
+2.7,Company - Private,"Health, Education & Retail",Other,Junior,81.0,0,0,1,4740,11.327874888755245,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.8,Company - Private,Industry & Finance,data analyst,Junior,58.5,1,0,0,2327,9.705981333874352,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,IL,0,1
+3.4,Company - Public,Professional & Other Services,data engineer,Unknown,107.5,0,0,0,4288,12.910904472673138,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,IL,0,0
+3.8,Company - Public,"Health, Education & Retail",Other,Unknown,120.5,0,0,1,2683,13.599079220705098,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+3.9,Company - Private,Tech / Innovation,data scientist,senior,63.5,0,0,0,2340,10.0960542522377,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,CA,1,1
+3.1,Company - Private,Industry & Finance,Other,Unknown,103.5,0,0,1,5169,12.688835081378226,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+4.1,Company - Public,Tech / Innovation,data scientist,Unknown,107.0,0,0,1,3329,12.883429392155278,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,CA,1,0
+3.7,Company - Public,Industry & Finance,data engineer,Junior,105.5,1,0,0,2672,12.800522961232547,0.37941632137026204,0–15,Large Company,Industry & Business,Large Business,VA,0,1
+2.8,Company - Private,Industry & Finance,data engineer,Junior,83.0,0,1,0,3828,11.45770014300675,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,CA,0,0
+4.0,Company - Private,Tech / Innovation,data engineer,semi-senior,162.0,1,0,0,3978,15.528312368938376,0.37941632137026204,16–30,Large Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.5,Company - Private,Tech / Innovation,data scientist,Entry Level,68.5,0,0,1,3413,10.467499871902241,0.37941632137026204,55+,Large Company,Tech / Innovation,Large Business,CA,1,1
+3.4,Company - Public,Industry & Finance,data scientist,Junior,110.5,0,0,0,1735,13.074112460551842,0.37941632137026204,31–55,Corporation / Multinational,Industry & Business,Large Business,Midwest Other,1,0
+3.7,Subsidiary or Business Segment,Industry & Finance,data engineer,Junior,115.5,1,1,0,6569,13.340122892980046,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+3.0,Company - Public,"Health, Education & Retail",Other,semi-senior,87.5,0,0,0,4586,11.742871439907747,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+3.8,Other,Industry & Finance,data scientist,Junior,80.5,0,0,0,5188,11.295108455115429,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,1,0
+4.6,Company - Private,Industry & Finance,data analyst,Unknown,43.0,0,1,0,4328,8.345541943184143,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+4.4,Company - Public,"Health, Education & Retail",Other,Junior,140.0,0,0,0,5449,14.549786605178722,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,MA,0,0
+4.0,Company - Public,"Health, Education & Retail",Other,senior,172.0,0,0,0,5701,15.94583855016356,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+3.7235294117647055,Company - Private,Professional & Other Services,Other,senior,120.0,0,0,1,3214,13.573487265610336,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+3.0,Company - Private,Industry & Finance,data analyst,senior,66.5,0,1,0,3766,10.321009220755032,0.37941632137026204,31–55,Large Company,Industry & Business,Large Business,Northeast Other,0,0
+3.0,Company - Public,"Health, Education & Retail",Other,semi-senior,100.0,0,0,0,7777,12.490112835757943,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+4.7,Company - Private,Professional & Other Services,data engineer,Unknown,94.5,1,0,0,1504,12.168917618420275,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,CA,0,1
+4.2,Company - Private,"Health, Education & Retail",data scientist,Junior,221.5,1,0,1,4951,17.817374891521787,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+3.8,Other,Industry & Finance,data scientist,senior,119.0,0,0,0,5186,13.52210412352648,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,1,0
+3.5,Company - Private,Professional & Other Services,data engineer,Junior,95.5,1,0,0,3119,12.228163617329262,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,IL,0,0
+3.3,Company - Private,Industry & Finance,data scientist,semi-senior,194.5,1,0,1,3935,16.833094915093177,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,IL,0,0
+3.2,Nonprofit Organization,"Health, Education & Retail",Other,Unknown,50.0,0,0,0,1844,8.992263420235307,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,Midwest Other,0,0
+2.7,Company - Public,Industry & Finance,data analyst,semi-senior,27.0,0,1,0,4299,6.568164094357207,0.37941632137026204,16–30,Large Company,Industry & Business,Large Business,South Other,0,0
+3.3,Company - Private,Industry & Finance,Other,senior,173.0,1,0,1,4183,15.986753856202851,0.37941632137026204,31–55,Large Company,Industry & Business,Large Business,Northeast Other,0,0
+3.7,Other,"Health, Education & Retail",data scientist,senior,105.5,0,0,1,8734,12.800522961232547,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,South Other,1,1
+3.9,Nonprofit Organization,Professional & Other Services,Other,Unknown,71.5,1,0,0,2332,10.682340769484432,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,South Other,0,1
+3.1,Company - Private,Industry & Finance,Other,Unknown,74.0,0,0,1,6034,10.857139523085925,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+3.7,Company - Public,Industry & Finance,data analyst,Junior,62.5,0,0,0,4774,10.019606766235432,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,South Other,0,0
+4.3,Nonprofit Organization,Professional & Other Services,Other,Unknown,65.5,0,0,0,2222,10.246737256624101,0.37941632137026204,55+,Large Company,Professional Services,Mid-size Business,South Other,0,0
+3.8,Company - Public,"Health, Education & Retail",data scientist,Junior,85.0,0,0,1,2493,11.585598214198749,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Large Business,Northeast Other,1,0
+3.9,Company - Public,"Health, Education & Retail",data scientist,senior,147.5,1,0,1,4490,14.893451045730563,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MD,0,0
+3.6,Company - Private,Professional & Other Services,data scientist,senior,161.5,1,1,0,5121,15.507021300123437,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,1
+3.7,Nonprofit Organization,"Health, Education & Retail",data engineer,Junior,81.0,0,0,0,2948,11.327874888755245,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Large Business,VA,0,0
+2.1,Other,"Health, Education & Retail",data analyst,Entry Level,72.5,0,1,1,1359,10.752708456754247,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Mid-size Business,Northeast Other,0,0
+3.9,Company - Public,Tech / Innovation,data engineer,Junior,139.0,1,0,0,4915,14.503108503646049,0.37941632137026204,16–30,Small Company,Tech / Innovation,Micro / Small Business,CA,0,1
+3.9,Company - Private,Tech / Innovation,data engineer,Junior,136.5,0,0,0,3466,14.385494058396475,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,CA,0,0
+3.2,Company - Private,Tech / Innovation,data analyst,Junior,83.0,1,0,0,2689,11.45770014300675,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,NY,0,1
+4.6,Subsidiary or Business Segment,Professional & Other Services,Other,Junior,121.0,0,0,0,3709,13.624605360121668,0.37941632137026204,31–55,Small Company,Professional Services,Micro / Small Business,MA,1,1
+3.8,Company - Private,Professional & Other Services,data scientist,Unknown,74.5,1,0,0,3172,10.891657643554465,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,1
+2.2,Company - Private,"Health, Education & Retail",data analyst,Junior,85.5,0,0,1,4402,11.617280259087407,0.37941632137026204,16–30,Medium Company,Industry & Business,Unknown / N/A,CA,0,0
+3.1,Company - Private,Industry & Finance,Other,Unknown,80.5,0,0,1,5749,11.295108455115429,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+4.6,Subsidiary or Business Segment,Professional & Other Services,Other,Junior,167.5,0,0,1,3180,15.759869040363615,0.37941632137026204,31–55,Small Company,Professional Services,Micro / Small Business,MA,0,0
+2.6,Other,"Health, Education & Retail",data scientist,senior,107.5,0,0,0,2011,12.910904472673138,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,1,0
+3.4,Nonprofit Organization,Professional & Other Services,data analyst,Unknown,44.5,0,0,0,4087,8.489338489418518,0.37941632137026204,31–55,Medium Company,Public & Essential Services,Micro / Small Business,West Other,0,1
+3.3,Company - Private,"Health, Education & Retail",data analyst,senior,107.5,0,0,0,2606,12.910904472673138,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,MD,0,0
+3.7235294117647055,Company - Private,Professional & Other Services,Other,Unknown,132.5,0,0,0,3082,14.1944973939562,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+3.7,Company - Private,"Health, Education & Retail",data analyst,Junior,69.5,0,1,0,1865,10.53975090966913,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Mid-size Business,Northeast Other,0,0
+3.5,Company - Public,Tech / Innovation,Other,Entry Level,98.5,1,0,0,3926,12.403624598141242,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,CA,0,1
+2.7,Company - Private,"Health, Education & Retail",Other,Unknown,80.5,0,0,0,3570,11.295108455115429,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.8,Company - Private,"Health, Education & Retail",Other,senior,74.0,0,0,1,3747,10.857139523085925,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Micro / Small Business,MA,0,0
+3.7,Company - Public,Industry & Finance,Other,Junior,99.0,1,0,0,4431,12.432544265783939,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,MD,0,1
+3.8,Company - Public,"Health, Education & Retail",Other,Junior,96.5,0,0,0,4465,12.287025859463858,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,MA,0,0
+3.3,Company - Private,Industry & Finance,data scientist,Unknown,53.0,0,0,0,3448,9.252197607579037,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,MA,0,0
+2.7,Company - Private,Tech / Innovation,data engineer,Junior,103.0,0,0,0,4571,12.660704213620845,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.8,Company - Public,Industry & Finance,data scientist,Unknown,139.5,0,0,0,2933,14.526473511166222,0.37941632137026204,16–30,Medium Company,Industry & Business,Mid-size Business,CA,0,0
+3.8,Other,Industry & Finance,data scientist,Unknown,67.0,0,0,0,4945,10.357885436302624,0.37941632137026204,55+,Large Company,Public & Essential Services,Mid-size Business,West Other,1,0
+3.0,Company - Public,Tech / Innovation,Other,Junior,62.5,0,0,0,3449,10.019606766235432,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Corporation / Multinational,Northeast Other,0,0
+3.9,Company - Public,"Health, Education & Retail",Other,senior,92.0,0,0,0,2391,12.019079894573215,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MD,0,0
+3.6,Company - Private,"Health, Education & Retail",data analyst,Unknown,66.0,0,0,0,2292,10.28396053501821,0.37941632137026204,31–55,Small Company,"Health, Education & Media",Micro / Small Business,NY,0,0
+3.5,Company - Private,"Health, Education & Retail",data engineer,Unknown,94.5,1,0,0,5743,12.168917618420275,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.6,Company - Private,Professional & Other Services,data scientist,Entry Level,114.0,1,1,0,4648,13.261083159929397,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,1
+4.2,Company - Private,"Health, Education & Retail",data scientist,Junior,75.5,1,1,1,4341,10.960265021066744,0.37941632137026204,0–15,Small Company,Professional Services,Unknown / N/A,NY,0,1
+3.5,Other,"Health, Education & Retail",data scientist,semi-senior,96.0,0,0,0,3775,12.257642302369677,0.37941632137026204,0–15,Small Company,"Health, Education & Media",Micro / Small Business,Midwest Other,0,1
+4.0,Company - Public,Industry & Finance,data scientist,Junior,87.0,1,0,0,3127,11.711642068078532,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,VA,0,0
+3.7,Company - Private,Tech / Innovation,data scientist,senior,86.0,1,0,1,6626,11.648847532792228,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,MD,0,0
+4.4,Company - Private,Tech / Innovation,data scientist,Unknown,116.5,1,0,1,1211,13.392462736410097,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.5,Company - Private,"Health, Education & Retail",Other,senior,154.5,1,0,1,4517,15.204550771694912,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Large Business,MA,0,0
+3.6,Company - Private,Professional & Other Services,data analyst,Entry Level,48.5,0,1,0,4608,8.858656653183187,0.37941632137026204,31–55,Large Company,Professional Services,Mid-size Business,CA,0,0
+3.7,Company - Public,Industry & Finance,data scientist,Junior,87.0,1,0,0,2860,11.711642068078532,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,1
+3.4,Company - Private,Tech / Innovation,data engineer,Junior,80.0,1,0,0,7802,11.262215476592438,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Large Business,South Other,0,1
+4.0,Other,"Health, Education & Retail",Other,Unknown,43.0,0,0,0,5160,8.345541943184143,0.37941632137026204,31–55,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,1
+3.7,Company - Public,Industry & Finance,data scientist,senior,173.0,1,0,0,5884,15.986753856202851,0.37941632137026204,55+,Corporation / Multinational,Industry & Business,Corporation / Multinational,CA,0,0
+2.4,Company - Private,Industry & Finance,Other,senior,52.5,0,0,1,2433,9.209521137783868,0.37941632137026204,0–15,Medium Company,Industry & Business,Mid-size Business,IL,0,0
+3.5,Company - Private,"Health, Education & Retail",data engineer,Entry Level,68.5,1,0,0,1230,10.467499871902241,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,West Other,0,1
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,95.0,0,0,0,3110,12.198588995887503,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MD,0,0
+3.2,Nonprofit Organization,Public Sector,data scientist,Unknown,69.5,1,1,1,4478,10.53975090966913,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,MA,0,0
+4.4,Subsidiary or Business Segment,Professional & Other Services,data scientist,Junior,107.0,1,1,1,4804,12.883429392155278,0.37941632137026204,55+,Medium Company,Professional Services,Unknown / N/A,Midwest Other,0,1
+3.9,Company - Private,Tech / Innovation,data scientist,Unknown,112.0,1,0,1,4427,13.154686321331223,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,VA,0,1
+3.4,Company - Private,Professional & Other Services,data scientist,Unknown,96.5,0,0,1,4662,12.287025859463858,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,South Other,1,0
+2.1,Company - Public,"Health, Education & Retail",Other,Junior,111.5,0,0,0,4300,13.127903188165385,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Micro / Small Business,CA,0,0
+3.7,Company - Public,"Health, Education & Retail",Other,Junior,154.5,0,0,1,6817,15.204550771694912,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+3.4,Company - Private,"Health, Education & Retail",data scientist,semi-senior,95.0,1,1,0,3111,12.198588995887503,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,NY,0,1
+4.0,Company - Private,Professional & Other Services,data scientist,semi-senior,97.5,1,0,1,3431,12.345510769039018,0.37941632137026204,16–30,Medium Company,Professional Services,Unknown / N/A,NY,0,0
+4.4,Company - Private,Professional & Other Services,data scientist,senior,128.5,1,1,1,3160,13.999888028336144,0.37941632137026204,16–30,Medium Company,Professional Services,Mid-size Business,IL,0,1
+2.6,Other,"Health, Education & Retail",data scientist,Unknown,124.0,0,0,0,5379,13.776404389536111,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.2,Subsidiary or Business Segment,Tech / Innovation,data scientist,Junior,194.0,0,0,0,4847,16.814090670101706,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.7,Other,"Health, Education & Retail",Other,Unknown,63.0,0,0,0,1945,10.057924641416694,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Mid-size Business,West Other,0,0
+4.2,Nonprofit Organization,Professional & Other Services,data analyst,Unknown,50.0,0,0,0,4525,8.992263420235307,0.37941632137026204,0–15,Corporation / Multinational,Public & Essential Services,Unknown / N/A,West Other,0,1
+3.5,Company - Public,Professional & Other Services,data scientist,senior,104.5,1,0,1,4134,12.744844841539297,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,NY,0,1
+4.3,Company - Private,Tech / Innovation,data scientist,Junior,69.5,0,0,1,3728,10.53975090966913,0.37941632137026204,55+,Medium Company,Tech / Innovation,Mid-size Business,West Other,1,0
+2.6,Company - Private,"Health, Education & Retail",data scientist,senior,121.0,1,1,1,2399,13.624605360121668,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Unknown / N/A,CA,0,0
+4.2,Company - Private,Tech / Innovation,data engineer,Unknown,85.5,1,0,0,5192,11.617280259087407,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Unknown / N/A,South Other,0,1
+3.1,Company - Public,Professional & Other Services,data engineer,Unknown,113.0,1,0,0,2421,13.20803082272062,0.37941632137026204,16–30,Large Company,Tech / Innovation,Corporation / Multinational,CA,0,1
+3.8,Subsidiary or Business Segment,Industry & Finance,data scientist,Junior,103.0,1,1,1,2730,12.660704213620845,0.37941632137026204,16–30,Medium Company,Industry & Business,Micro / Small Business,CA,0,1
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,90.5,0,0,0,5838,11.927961166351116,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+4.3,Company - Private,Tech / Innovation,data scientist,Unknown,153.0,1,0,0,2095,15.138634715266168,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,CA,0,1
+3.2,Nonprofit Organization,Public Sector,data scientist,Junior,106.5,1,1,1,3170,12.855874519979954,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,VA,0,1
+5.0,Company - Private,Tech / Innovation,data scientist,Unknown,130.0,0,0,0,3808,14.07330126490502,0.37941632137026204,0–15,Small Company,Tech / Innovation,Unknown / N/A,Midwest Other,0,0
+3.3,Company - Public,Professional & Other Services,data analyst,Junior,123.5,0,1,1,7383,13.751264063893865,0.37941632137026204,31–55,Large Company,Professional Services,Large Business,CA,0,0
+4.3,Company - Public,Tech / Innovation,Other,Unknown,86.5,0,0,0,4023,11.680301114750797,0.37941632137026204,16–30,Large Company,Tech / Innovation,Mid-size Business,NY,0,1
+3.5,Nonprofit Organization,"Health, Education & Retail",Other,Unknown,64.0,0,1,0,3846,10.1339979952357,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+3.9,Company - Private,Tech / Innovation,data analyst,Unknown,47.0,0,0,0,2460,8.722460216335108,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Micro / Small Business,NY,0,1
+4.0,Company - Public,Tech / Innovation,data scientist,Unknown,162.0,1,1,0,3864,15.528312368938376,0.37941632137026204,31–55,Corporation / Multinational,Tech / Innovation,Large Business,CA,0,1
+3.9,Company - Public,"Health, Education & Retail",data scientist,senior,140.0,1,0,1,4572,14.549786605178722,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MD,0,0
+3.4,Company - Private,Tech / Innovation,data scientist,Unknown,89.0,0,0,0,407,11.835900304852423,0.37941632137026204,0–15,Small Company,Tech / Innovation,Micro / Small Business,West Other,0,0
+3.0,Company - Private,"Health, Education & Retail",data engineer,Junior,98.0,1,0,0,2133,12.374613684443108,0.37941632137026204,55+,Corporation / Multinational,Public & Essential Services,Corporation / Multinational,South Other,0,0
+3.9,Company - Public,"Health, Education & Retail",data scientist,Entry Level,137.0,1,0,1,3169,14.409123235901891,0.37941632137026204,55+,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,NY,0,0
+4.0,Nonprofit Organization,Industry & Finance,data engineer,Junior,99.0,1,0,0,4701,12.432544265783939,0.37941632137026204,55+,Medium Company,Industry & Business,Mid-size Business,West Other,0,1
+3.3,Company - Private,Industry & Finance,Other,Unknown,54.0,0,0,1,2832,9.336806928704416,0.37941632137026204,55+,Medium Company,Industry & Business,Unknown / N/A,Midwest Other,0,0
+3.2,Company - Private,"Health, Education & Retail",data engineer,Junior,109.0,0,0,0,1793,12.992856933769634,0.37941632137026204,16–30,Large Company,"Health, Education & Media",Unknown / N/A,South Other,0,1
+3.4,Company - Private,Tech / Innovation,data engineer,Entry Level,109.0,0,0,0,3677,12.992856933769634,0.37941632137026204,16–30,Medium Company,Tech / Innovation,Micro / Small Business,MD,0,1
+4.4,Company - Private,Tech / Innovation,data scientist,Junior,139.5,1,1,0,2518,14.526473511166222,0.37941632137026204,31–55,Large Company,Tech / Innovation,Large Business,MA,0,0
+3.2,Company - Private,Tech / Innovation,data scientist,Junior,125.0,0,0,0,3516,13.826496954564968,0.37941632137026204,31–55,Large Company,Tech / Innovation,Unknown / N/A,NY,1,1
+3.8,Company - Public,"Health, Education & Retail",data scientist,senior,106.5,1,1,1,4033,12.855874519979954,0.37941632137026204,16–30,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,0
+3.6,Nonprofit Organization,"Health, Education & Retail",Other,Junior,55.0,0,0,0,2801,9.42044938889513,0.37941632137026204,55+,Large Company,"Health, Education & Media",Mid-size Business,South Other,0,0
+2.9,Subsidiary or Business Segment,"Health, Education & Retail",Other,semi-senior,73.0,0,0,1,3725,10.78766654652698,0.37941632137026204,0–15,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,0
+2.7,Company - Private,"Health, Education & Retail",Other,Junior,81.0,0,0,1,3776,11.327874888755245,0.37941632137026204,55+,Medium Company,"Health, Education & Media",Micro / Small Business,MD,0,0
+3.2,Company - Private,Professional & Other Services,data scientist,Junior,128.5,1,0,0,2306,13.999888028336144,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,0,1
+3.1,Company - Private,Industry & Finance,Other,senior,99.5,0,0,1,7121,12.461373433036002,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+4.0,Company - Private,"Health, Education & Retail",Other,senior,92.0,0,0,0,3911,12.019079894573215,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Unknown / N/A,CA,0,1
+3.3,Company - Private,Industry & Finance,data analyst,Unknown,45.5,0,0,0,2867,8.583538789047529,0.37941632137026204,31–55,Medium Company,Industry & Business,Mid-size Business,Midwest Other,0,0
+4.5,Company - Private,Professional & Other Services,data engineer,semi-senior,122.5,1,0,0,2311,13.700793262476457,0.37941632137026204,16–30,Small Company,Professional Services,Micro / Small Business,Midwest Other,0,1
+3.0,Subsidiary or Business Segment,Tech / Innovation,data analyst,Junior,37.5,0,0,0,6175,7.789878780487946,0.37941632137026204,31–55,Large Company,Tech / Innovation,Mid-size Business,South Other,0,0
+3.7,Company - Public,Industry & Finance,data analyst,Unknown,54.0,0,0,0,3783,9.336806928704416,0.37941632137026204,Unknown,Large Company,Industry & Business,Large Business,MA,0,0
+3.8,Company - Private,Professional & Other Services,data analyst,Entry Level,53.5,1,0,1,2479,9.29462495042709,0.37941632137026204,16–30,Large Company,Public & Essential Services,Large Business,NY,0,0
+3.9,Company - Public,Industry & Finance,data scientist,Unknown,140.0,1,0,1,5338,14.549786605178722,0.37941632137026204,55+,Large Company,Industry & Business,Large Business,IL,0,0
+3.2,Nonprofit Organization,Public Sector,data scientist,Junior,77.5,0,0,0,3243,11.09580670992474,0.37941632137026204,55+,Large Company,Public & Essential Services,Large Business,VA,0,0
+3.3,Company - Private,Professional & Other Services,Other,Unknown,53.0,0,0,0,1848,9.252197607579037,0.37941632137026204,31–55,Small Company,Professional Services,Unknown / N/A,MA,0,0
+3.1,Company - Private,Industry & Finance,Other,senior,117.5,0,0,1,7361,13.444524507619606,0.37941632137026204,55+,Large Company,Industry & Business,Corporation / Multinational,South Other,0,0
+2.4,Company - Private,"Health, Education & Retail",Other,Junior,70.5,0,0,0,3374,10.611359641905416,0.37941632137026204,16–30,Medium Company,"Health, Education & Media",Mid-size Business,CA,0,0
+4.8,Company - Private,Tech / Innovation,Other,Junior,61.5,0,1,0,3693,9.942396383323832,0.37941632137026204,0–15,Small Company,Tech / Innovation,Micro / Small Business,CA,0,0
+2.9,Company - Private,"Health, Education & Retail",Other,Unknown,80.0,0,0,0,4613,11.262215476592438,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,South Other,0,0
+2.9,Company - Private,"Health, Education & Retail",Other,Unknown,70.0,0,0,0,4707,10.57563463227452,0.37941632137026204,0–15,Large Company,"Health, Education & Media",Unknown / N/A,NY,0,0
+3.7235294117647055,Company - Private,Professional & Other Services,Other,senior,120.0,0,0,0,3309,13.573487265610336,0.37941632137026204,0–15,,Professional Services,Unknown / N/A,MA,0,0
+3.4,Company - Private,Industry & Finance,data engineer,Unknown,90.0,0,0,0,2752,11.89738014826414,0.37941632137026204,31–55,Large Company,Industry & Business,Mid-size Business,MA,0,1
+4.1,Company - Private,"Health, Education & Retail",data scientist,Junior,111.0,0,0,0,3478,13.101045416446222,0.37941632137026204,16–30,Small Company,"Health, Education & Media",Unknown / N/A,CA,1,1
+3.9,Company - Public,Tech / Innovation,data analyst,Unknown,138.5,1,1,1,5717,14.479691279652293,0.37941632137026204,16–30,Small Company,Tech / Innovation,Unknown / N/A,CA,0,0
+3.6,Company - Private,Industry & Finance,data scientist,Unknown,68.5,0,0,0,5016,10.467499871902241,0.37941632137026204,Unknown,Large Company,Industry & Business,Corporation / Multinational,MA,0,0
+3.9,Company - Private,Tech / Innovation,data engineer,Entry Level,87.5,1,0,0,3813,11.742871439907747,0.37941632137026204,0–15,Medium Company,Tech / Innovation,Mid-size Business,CA,0,1
+3.6,Company - Public,"Health, Education & Retail",data scientist,semi-senior,111.5,0,0,0,5025,13.127903188165385,0.37941632137026204,0–15,Corporation / Multinational,"Health, Education & Media",Large Business,Northeast Other,0,0
+3.9,Company - Public,"Health, Education & Retail",Other,Junior,84.5,0,0,0,6162,11.553800302018274,0.37941632137026204,Unknown,Corporation / Multinational,"Health, Education & Media",Corporation / Multinational,MA,0,1
+4.4,Company - Public,Tech / Innovation,data engineer,senior,102.5,1,0,0,6130,12.63248847222392,0.37941632137026204,16–30,Large Company,Tech / Innovation,Mid-size Business,South Other,0,1
+2.6,Other,"Health, Education & Retail",Other,Unknown,73.5,0,0,0,3078,10.822476358219792,0.37941632137026204,31–55,Medium Company,"Health, Education & Media",Unknown / N/A,Northeast Other,0,0
+3.2,Company - Private,Professional & Other Services,data scientist,Junior,127.5,0,0,1,1642,13.950649961198543,0.37941632137026204,0–15,Small Company,Professional Services,Micro / Small Business,Northeast Other,0,0
+3.6,Nonprofit Organization,Public Sector,Other,semi-senior,93.5,1,0,0,3673,12.109281259776585,0.37941632137026204,55+,Medium Company,Public & Essential Services,Mid-size Business,Midwest Other,0,0
