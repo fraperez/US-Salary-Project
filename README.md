@@ -5,18 +5,22 @@
 
 ## 0. Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Project Goals](#project-goals)  
-3. [Dataset Structure](#data-structure)  
-4. [Executive Summary](#executive-summary)  
-5. [Insight Deep Dive](#insight-deep-dive)  
-    5.1 [Data Cleaning and Feature Engineering](#data-cleaning-and-feature-engineering)  
-    5.2 [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-    5.3 [Cost of Living Adjustment](#cost-of-living-adjustment)  
-    5.4 [Modeling Results](#modeling-results)  
-6. [Recommendations](#recommendations)  
-7. [Technical Details](#technical-details)  
-8. [Caveats and Assumptions](#caveats-and-assumptions)  
+1. [Project Overview](#1-project-overview)  
+2. [Project Goals](#2-project-goals)  
+3. [Dataset Structure](#3-dataset-structure)  
+4. [Executive Summary](#4-executive-summary)  
+5. [Insight Deep Dive](#5-insight-deep-dive)  
+   - [Data Cleaning and Feature Engineering](#a-data-cleaning-and-feature-engineering)  
+   - [Exploratory Data Analysis (EDA)](#b-exploratory-data-analysis-eda)  
+     - [Target Variable: `avg_salary`](#1-target-variable-avgsalary)  
+     - [Numerical Variables](#2-numerical-variables)  
+     - [Tools](#3-tools)  
+     - [Categorical Variables](#5-categorical-variables)  
+   - [Cost of Living Adjustment](#4-cost-of-living-adjustment)  
+   - [Modeling Results](#c-modeling-results)  
+6. [Recommendations](#6recommendations)  
+7. [Technical Details](#7-technical-details)  
+8. [Caveats and Assumptions](#8-caveats-and-assumptions)
 
 
 ## 1. Project Overview
@@ -385,7 +389,7 @@ Feature importance was extracted from the best-performing model (tuned XGBoost) 
 
 
 ![Feature Importance](images\feature_importance.png)  
-**Figure 13.** Top 15 features by importance (Random Forest).
+**Figure 13.** Top 15 features by importance.
 
 
 ## 6.Recommendations
