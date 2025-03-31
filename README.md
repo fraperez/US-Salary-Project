@@ -388,7 +388,7 @@ Feature importance was extracted from the best-performing model (tuned XGBoost) 
 - Surprisingly, **technical tool experience** and **experience level** appeared with relatively lower importance in the final model.
 
 
-![Feature Importance](images\feature_importance1.png)  
+![Feature Importance](images/feature_importance.png)
 **Figure 13.** Top 15 features by importance.
 
 
