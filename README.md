@@ -3,6 +3,11 @@
 
 *Franco Pérez Rivera — Data Portfolio Project – 2025*
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Used-f7931e?logo=scikit-learn&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost%20%7C%20Stacking-brightgreen)
+
+
 ## 0. Table of Contents
 
 1. [Project Overview](#1-project-overview)  
